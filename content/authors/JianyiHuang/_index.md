@@ -19,7 +19,7 @@ role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Peking University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
