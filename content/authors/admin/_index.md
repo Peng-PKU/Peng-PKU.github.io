@@ -76,7 +76,6 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Principal Investigators
-  - Researchers
 ---
 
 [Prof. Licong Peng](https://www.mse.pku.edu.cn/info/1213/2411.htm) is an Assistant Professor and Researcher at the School of Materials Science and Engineering, Peking University.
