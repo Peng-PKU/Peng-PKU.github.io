@@ -31,9 +31,9 @@ sections:
         </ol>
     
         <p>Contact us to learn more!</p>
-    design: null
-    count: null
-    filters: null
+    design:
+      view: citation
+      columns: '1'
 
   - block: markdown
     content:
