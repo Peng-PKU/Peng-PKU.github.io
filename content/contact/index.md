@@ -15,7 +15,7 @@ sections:
       address:
         street: No.5 Yiheyuan Road, Haidian District
         city: Beijing
-        region: Beijing
+        region: CN
         postcode: '100871'
         country: China
         country_code: CN
