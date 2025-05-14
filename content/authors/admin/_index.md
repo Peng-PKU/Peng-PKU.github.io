@@ -37,10 +37,10 @@ education:
     - course: Visiting Scholar (Advisors: Lin Zhou, Matthew J. Kramer)
       institution: Ames Laboratory, U.S.
       year: 2017
-    - course: Ph.D. in Condensed Matter Physics (Advisors: Ying Zhang, Jianwang Cai)
+    - course: PhD in Condensed Matter Physics (Advisors: Ying Zhang, Jianwang Cai)
       institution: Institute of Physics, Chinese Academy of Sciences
       year: 2013–2018
-    - course: B.Sc. in Applied Physics
+    - course: BSc in Applied Physics
       institution: College of Science, Minzu University of China
       year: 2009–2013
       
