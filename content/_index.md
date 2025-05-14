@@ -13,9 +13,9 @@ sections:
     design:
       columns: '1'
       background:
-        color: "#000000"
+        color: "#ffffff"
       spacing:
-        padding: ['-20px', '0', '-20px', '0']
+        padding: ['-200px', '0', '-200px', '0']
       css_class: fullscreen
 
   - block: hero
