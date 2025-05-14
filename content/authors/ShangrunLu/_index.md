@@ -23,12 +23,13 @@ organizations:
     url: 'https://www.pku.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include topological spin textures, micromagnetic simulations, Lorentz transmission electron microscopy and 4D scanning transmission electron microscopy.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Topological Spin Textures
+  - Micromagnetic Simulations
+  - Lorentz Transmission Electron Microscopy
+  - 4D Scanning Transmission Electron Microscopy
 
 education:
   courses:
@@ -65,6 +66,4 @@ user_groups:
   - Grad Students
 ---
 
-Shangrun Lu is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Shangrun Lu is a PhD student at the School of Materials Science and Engineering, Peking University. His research focuses on magnetic skyrmions, including first-principles calculations, micromagnetic simulations, and Lorentz transmission electron microscopy, aiming to advance the development of magnetic materials.
