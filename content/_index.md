@@ -13,6 +13,7 @@ sections:
         filename: welcome.jpg
       text: |
         <br>
+        
         <span style="font-size: 0.85em;">**Our group investigates topological magnetism and spintronic device physics.** Using Lorentz transmission electron microscopy (LTEM), we study real-space spin textures—such as skyrmions, antiskyrmions, and magnetic monopoles—their formation mechanisms, and spin dynamics under electric, thermal, mechanical, and microwave stimuli, complemented by real-time magnetotransport measurements. We further explore their application in spintronic devices.</span>
   
   - block: markdown
