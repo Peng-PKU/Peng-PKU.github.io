@@ -21,7 +21,7 @@ sections:
       coordinates:
         latitude: '39.99281'
         longitude: '116.31088'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      directions: Enter Peking University through the Southwest Gate, then proceed to Office 315 on the third floor of the Yi Yuan.
       office_hours:
         - 'Weekdays 9:00 to 17:00'
       appointment_url: 'https://calendly.com'
