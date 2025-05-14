@@ -32,7 +32,6 @@ sections:
     
         <p>Contact us to learn more!</p>
     design:
-      view: citation
       columns: '1'
 
   - block: markdown
