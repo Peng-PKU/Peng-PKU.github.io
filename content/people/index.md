@@ -9,10 +9,12 @@ sections:
     content:
       title: Meet the Team
       text: >
-        We are the *Lorentz Topological Magnetism Laboratory*,  
+        <span style="font-size: 1.25rem;">
+        We are the <em>Lorentz Topological Magnetism Laboratory</em>,  
         a research subgroup within the broader team led by  
-        [Prof. Yanglong Hou](https://faculty.pku.edu.cn/houyanglong/zh_CN/xsxx/50668/list/index.htm) at Peking University.  
+        <a href="https://faculty.pku.edu.cn/houyanglong/zh_CN/xsxx/50668/list/index.htm" target="_blank">Professor Yanglong Hou</a> at Peking University.  
         Below are the main members of our lab.
+        </span>
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
