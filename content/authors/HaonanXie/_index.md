@@ -5,7 +5,7 @@ title: Haonan Xie
 # Full name (for SEO)
 first_name: Haonan
 last_name: Xie
-sort_order: 6  # 小的排前面
+sort_order: 7  # 小的排前面
 
 # Username (this should match the folder name)
 authors:
