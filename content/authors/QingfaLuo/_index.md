@@ -5,7 +5,7 @@ title: Qingfa Luo
 # Full name (for SEO)
 first_name: Qingfa
 last_name: Luo
-sort_order: 8  # 小的排前面
+sort_order: 9  # 小的排前面
 
 # Username (this should match the folder name)
 authors:
