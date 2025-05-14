@@ -33,7 +33,9 @@ sections:
         <p>Contact us to learn more!</p>
       filters: null
     design:
-      background: "" 
+      background:
+        color: "#f0f0f0"  # 你可以选择一个有效的颜色代码或背景图片路径
+
 
   - block: markdown
     content:
