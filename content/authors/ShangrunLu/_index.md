@@ -5,7 +5,7 @@ title: Shangrun Lu
 # Full name (for SEO)
 first_name: Shangrun
 last_name: Lu
-sort_order: 4  # 小的排前面
+sort_order: 5  # 小的排前面
 
 # Username (this should match the folder name)
 authors:
