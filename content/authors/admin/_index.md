@@ -28,15 +28,25 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Special Postdoctoral Researcher (Advisor: Xiuzhen Yu)
+      institution: RIKEN, Japan
+      year: 2021–2023
+
+    - course: Postdoctoral Researcher (Advisor: Xiuzhen Yu)
+      institution: RIKEN, Japan
+      year: 2018–2021
+
+    - course: Visiting Scholar (Advisors: Lin Zhou, Matthew J. Kramer)
+      institution: Ames Laboratory, U.S.
+      year: 2017
+
+    - course: Ph.D. in Condensed Matter Physics (Advisors: Ying Zhang, Jianwang Cai)
+      institution: Institute of Physics, Chinese Academy of Sciences
+      year: 2013–2018
+
+    - course: B.Sc. in Applied Physics
+      institution: College of Science, Minzu University of China
+      year: 2009–2013
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
