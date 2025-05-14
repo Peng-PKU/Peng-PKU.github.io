@@ -24,7 +24,6 @@ sections:
       directions: Enter Peking University through the Southwest Gate, then proceed to Office 315 on the third floor of the Yi Yuan.
       office_hours:
         - 'Weekdays 9:00 to 17:00'
-      appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas
