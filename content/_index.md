@@ -13,7 +13,8 @@ sections:
     design:
       columns: '1'
       background:
-        filename: title.png
+        image: 
+          filename: title.png
           filters:
             brightness: 1
           parallax: false
