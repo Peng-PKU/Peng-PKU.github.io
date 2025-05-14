@@ -20,7 +20,8 @@ sections:
 
   - block: hero
     content:
-      title: Research
+      title: |
+        Research
       image:
         filename: welcome.jpg
       text: |
