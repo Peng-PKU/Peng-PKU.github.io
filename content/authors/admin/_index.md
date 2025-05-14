@@ -28,16 +28,16 @@ interests:
 
 education:
   courses:
-    - course: Special Postdoctoral Researcher (Advisor: Xiuzhen Yu)
+    - course: Special Postdoctoral Researcher
       institution: RIKEN, Japan
       year: 2021–2023
-    - course: Postdoctoral Researcher (Advisor: Xiuzhen Yu)
+    - course: Postdoctoral Researcher
       institution: RIKEN, Japan
       year: 2018–2021
-    - course: Visiting Scholar (Advisors: Lin Zhou, Matthew J. Kramer)
+    - course: Visiting Scholar
       institution: Ames Laboratory, U.S.
       year: 2017
-    - course: PhD in Condensed Matter Physics (Advisors: Ying Zhang, Jianwang Cai)
+    - course: PhD in Condensed Matter Physics
       institution: Institute of Physics, Chinese Academy of Sciences
       year: 2013–2018
     - course: BSc in Applied Physics
