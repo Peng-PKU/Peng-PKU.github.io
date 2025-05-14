@@ -11,7 +11,6 @@ sections:
       text: |-
         Our group recruits undergraduate students, Ph.D. students, and postdoctoral researchers every year. Interested candidates are welcome to get in touch!
       email: licong.peng@pku.edu.cn
-      phone: 888 888 88 88
       address:
         street: No.5 Yiheyuan Road, Haidian District
         city: Beijing
