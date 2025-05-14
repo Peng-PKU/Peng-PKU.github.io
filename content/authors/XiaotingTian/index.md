@@ -5,7 +5,7 @@ title: Xiaoting Tian
 # Full name (for SEO)
 first_name: Xiaoting
 last_name: Tian
-sort_order: 7  # 小的排前面
+sort_order: 4  # 小的排前面
 
 # Username (this should match the folder name)
 authors:
