@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Licong Peng
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Licong
+last_name: Peng
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Special Researcher
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: Peking University
+    url: 'https://www.pku.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
