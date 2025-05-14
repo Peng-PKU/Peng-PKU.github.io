@@ -5,7 +5,7 @@ title: Haoting Lu
 # Full name (for SEO)
 first_name: Haoting
 last_name: Lu
-sort_order: 5  # 小的排前面
+sort_order: 6  # 小的排前面
 
 # Username (this should match the folder name)
 authors:
