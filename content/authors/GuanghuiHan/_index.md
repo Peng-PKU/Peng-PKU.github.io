@@ -6,6 +6,7 @@ title: Guanghui Han
 # Full name (for SEO)
 first_name: Guanghui
 last_name: Han
+sort_order: 2  # 小的排前面
 
 # Username (this should match the folder name)
 authors:
