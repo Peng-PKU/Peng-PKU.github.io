@@ -24,23 +24,7 @@ sections:
       directions: Enter Peking University through the Southwest Gate, then proceed to Office 315 on the third floor of the Yi Yuan.
       office_hours:
         - 'Weekdays 9:00 to 17:00'
-      #contact_links:
-      #  - icon: comments
-      #    icon_pack: fas
-      #    name: Discuss on Forum
-      #    link: 'https://discourse.gohugo.io'
-    
-      # Automatically link email and phone or display as text?
       autolink: true
-    
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
     design:
       columns: '1'
 
