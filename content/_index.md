@@ -36,8 +36,6 @@ sections:
       columns: '1'
       background:
         color: "#f0f0f0" 
-      spacing:
-        padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
     
   - block: markdown
