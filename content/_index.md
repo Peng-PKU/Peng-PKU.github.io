@@ -31,7 +31,7 @@ sections:
         </ol>
     
         <p>Contact us to learn more!</p>
-      filters:null
+      filters: null
     design:
       columns: '1'
 
