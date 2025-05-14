@@ -19,8 +19,8 @@ sections:
         country: China
         country_code: CN
       coordinates:
-        latitude: '39.99281'
-        longitude: '116.3054'
+        latitude: '39.99181'
+        longitude: '116.3014'
       directions: Enter Peking University through the Southwest Gate, then proceed to Office 315 on the third floor of the Yi Yuan.
       office_hours:
         - 'Weekdays 9:00 to 17:00'
