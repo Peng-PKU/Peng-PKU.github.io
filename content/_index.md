@@ -5,9 +5,22 @@ date: 2025-05-14
 type: landing
 
 sections:
-  - block: hero
+  - block: markdown
     content:
       title: WELCOME TO PENG GROUP
+      subtitle: ''
+      text: ''
+    design:
+      columns: '1'
+      background:
+        color: "#000000"
+      spacing:
+        padding: ['-20px', '0', '-20px', '0']
+      css_class: fullscreen
+
+  - block: hero
+    content:
+      title: Research
       image:
         filename: welcome.jpg
       text: |
