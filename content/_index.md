@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: <span style="font-size: 2rem;"><strong>WELCOME TO PENG GROUP</span> 
+      title: WELCOME TO PENG GROUP
       image:
         filename: welcome.jpg
       text: |
