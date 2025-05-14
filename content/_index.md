@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        <span style="font-size: 1.5rem;">**Peng Group**</span>
+        <span style="font-size: 1.5rem;"><strong>Peng Group</strong></span>
       image:
         filename: welcome.jpg
       text: |
