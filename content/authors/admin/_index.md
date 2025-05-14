@@ -8,7 +8,7 @@ last_name: Peng
 sort_order: 1  # 小的排前面
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Assistant Professor, Researcher
@@ -19,7 +19,7 @@ organizations:
     url: 'https://www.pku.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include topological spin textures, skyrmion electronics and micromagnetic simulations.
 
 interests:
   - Lorentz Transmission Electron Microscopy
