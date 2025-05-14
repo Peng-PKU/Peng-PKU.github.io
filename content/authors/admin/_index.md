@@ -5,6 +5,7 @@ title: Licong Peng
 # Full Name (for SEO)
 first_name: Licong
 last_name: Peng
+sort_order: 1  # 小的排前面
 
 # Is this the primary user of the site?
 superuser: true
