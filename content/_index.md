@@ -33,7 +33,7 @@ sections:
         <p>Contact us to learn more!</p>
       filters: null
     design:
-      columns: '1'
+      background: "" 
 
   - block: markdown
     content:
