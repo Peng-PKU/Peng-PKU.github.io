@@ -32,7 +32,7 @@ interests:
 education:
   courses:
     - course: BSc in Physics
-      institution: Sun Yat-san University
+      institution: Sun Yat-sen University
       year: 2025
 
 # Social/Academic Networking
