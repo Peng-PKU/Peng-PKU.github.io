@@ -5,6 +5,7 @@ title: Jianyi Huang
 # Full name (for SEO)
 first_name: Jianyi
 last_name: Huang
+sort_order: 3  # 小的排前面
 
 # Username (this should match the folder name)
 authors:
