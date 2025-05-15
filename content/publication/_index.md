@@ -26,11 +26,9 @@ sections:
     
   - block: markdown
     content:
-      title: Null
+      title: 2025
       subtitle: ''
-      text: |
-        Among other directions, we are offering projects on the following topics to interested students and post-doctoral researchers:
-    
+      text: |   
         <ol>
           <li>Skyrmion electronics</li>
           <li>Spintronic devices</li>
@@ -38,8 +36,7 @@ sections:
           <li>Micromagnetic simulations</li>
           <li>Topological magnetic materials, 2D materials, nanomaterials, heterostructure thin films, superconducting materials</li>
         </ol>
-    
-        <p>Contact us to learn more!</p>
+
     design:
       columns: '1'
       spacing:
