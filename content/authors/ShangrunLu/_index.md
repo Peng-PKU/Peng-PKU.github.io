@@ -66,4 +66,4 @@ user_groups:
   - Grad Students
 ---
 
-Shangrun Lu is a PhD student at the School of Materials Science and Engineering, Peking University. His research focuses on magnetic skyrmions, including first-principles calculations, micromagnetic simulations, and Lorentz transmission electron microscopy, aiming to advance the development of magnetic materials.
+[Shangrun Lu](https://shangrunlu666.github.io/) is a PhD student at the School of Materials Science and Engineering, Peking University. His research focuses on magnetic skyrmions, including first-principles calculations, micromagnetic simulations, and Lorentz transmission electron microscopy, aiming to advance the development of magnetic materials.
