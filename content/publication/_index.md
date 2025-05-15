@@ -23,6 +23,22 @@ sections:
           text_color_light: true
       spacing:
         padding: ['40px', '0', '20px', '0']
+
+  - block: markdown
+    content:
+      title: "<span style=\"font-size: 0.8em;\">Preprint</span>"
+      text: |   
+        <ol style="font-size: 0.7em;">
+          <li>
+            <strong>Controllable Synthesis of Out-of-Plane Grown Bi₂TeO₅ with High-κ and Anisotropy for High-Performance Field-Effect Transistors</strong><br>
+            <em>Shibo Li, Biao Zhang, Xiaoting Tian, Zijing Zhao, Bailing Li, Zeeshan Ali, Ziyu Meng, Wanting Zhao, <strong><u>Licong Peng</u></strong>, Yanglong Hou</em><br>
+            <a href="https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.5c01677">Nano Letters, 2025</a>
+          </li>
+        </ol>
+    design:
+      columns: '1'
+      spacing:
+        padding: ['20px', '0', '20px', '0']
     
   - block: markdown
     content:
@@ -34,11 +50,6 @@ sections:
             <em>Shibo Li, Biao Zhang, Xiaoting Tian, Zijing Zhao, Bailing Li, Zeeshan Ali, Ziyu Meng, Wanting Zhao, <strong><u>Licong Peng</u></strong>, Yanglong Hou</em><br>
             <a href="https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.5c01677">Nano Letters, 2025</a>
           </li>
-          <li>
-            <strong>Spintronic devices</strong><br>
-            <em></em><br>
-            <!-- 若该项有期刊信息，请补充。此处保持原样。 -->
-          </li>
         </ol>
     design:
       columns: '1'
@@ -49,35 +60,44 @@ sections:
     content:
       title: "<span style=\"font-size: 0.8em;\">2024</span>"
       text: |   
-        <ol>
-          <li>Skyrmion electronics</li>
-          <li>Spintronic devices</li>
+        <ol style="font-size: 0.7em;">
+          <li>
+            <strong>Controllable Synthesis of Out-of-Plane Grown Bi₂TeO₅ with High-κ and Anisotropy for High-Performance Field-Effect Transistors</strong><br>
+            <em>Shibo Li, Biao Zhang, Xiaoting Tian, Zijing Zhao, Bailing Li, Zeeshan Ali, Ziyu Meng, Wanting Zhao, <strong><u>Licong Peng</u></strong>, Yanglong Hou</em><br>
+            <a href="https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.5c01677">Nano Letters, 2025</a>
+          </li>
         </ol>
     design:
       columns: '1'
       spacing:
         padding: ['20px', '0', '20px', '0']
-
+    
   - block: markdown
     content:
       title: "<span style=\"font-size: 0.8em;\">2023</span>"
       text: |   
-        <ol>
-          <li>Skyrmion electronics</li>
-          <li>Spintronic devices</li>
+        <ol style="font-size: 0.7em;">
+          <li>
+            <strong>Controllable Synthesis of Out-of-Plane Grown Bi₂TeO₅ with High-κ and Anisotropy for High-Performance Field-Effect Transistors</strong><br>
+            <em>Shibo Li, Biao Zhang, Xiaoting Tian, Zijing Zhao, Bailing Li, Zeeshan Ali, Ziyu Meng, Wanting Zhao, <strong><u>Licong Peng</u></strong>, Yanglong Hou</em><br>
+            <a href="https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.5c01677">Nano Letters, 2025</a>
+          </li>
         </ol>
     design:
       columns: '1'
       spacing:
         padding: ['20px', '0', '20px', '0']
-
+    
   - block: markdown
     content:
       title: "<span style=\"font-size: 0.8em;\">Before 2023</span>"
       text: |   
-        <ol>
-          <li>Skyrmion electronics</li>
-          <li>Spintronic devices</li>
+        <ol style="font-size: 0.7em;">
+          <li>
+            <strong>Controllable Synthesis of Out-of-Plane Grown Bi₂TeO₅ with High-κ and Anisotropy for High-Performance Field-Effect Transistors</strong><br>
+            <em>Shibo Li, Biao Zhang, Xiaoting Tian, Zijing Zhao, Bailing Li, Zeeshan Ali, Ziyu Meng, Wanting Zhao, <strong><u>Licong Peng</u></strong>, Yanglong Hou</em><br>
+            <a href="https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.5c01677">Nano Letters, 2025</a>
+          </li>
         </ol>
     design:
       columns: '1'
