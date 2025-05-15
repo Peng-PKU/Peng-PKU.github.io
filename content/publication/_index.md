@@ -31,9 +31,6 @@ sections:
         <ol>
           <li>Skyrmion electronics</li>
           <li>Spintronic devices</li>
-          <li>Lorentz transmission electron microscopy</li>
-          <li>Micromagnetic simulations</li>
-          <li>Topological magnetic materials, 2D materials, nanomaterials, heterostructure thin films, superconducting materials</li>
         </ol>
 
     design:
@@ -41,5 +38,46 @@ sections:
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
+  - block: markdown
+    content:
+      title: 2024
+      text: |   
+        <ol>
+          <li>Skyrmion electronics</li>
+          <li>Spintronic devices</li>
+        </ol>
 
+    design:
+      columns: '1'
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
+  - block: markdown
+    content:
+      title: 2023
+      text: |   
+        <ol>
+          <li>Skyrmion electronics</li>
+          <li>Spintronic devices</li>
+        </ol>
+
+    design:
+      columns: '1'
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
+  - block: markdown
+    content:
+      title: Before 2023
+      text: |   
+        <ol>
+          <li>Skyrmion electronics</li>
+          <li>Spintronic devices</li>
+        </ol>
+
+    design:
+      columns: '1'
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
 ---
