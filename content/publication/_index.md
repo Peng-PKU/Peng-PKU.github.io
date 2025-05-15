@@ -26,13 +26,12 @@ sections:
     
   - block: markdown
     content:
-      title: <span style="font-size: 1.0em;">2025</span>
+      title: <span style="font-size: 1.2em; font-weight: bold;">2025</span>
       text: |   
         <ol>
           <li>Skyrmion electronics</li>
           <li>Spintronic devices</li>
         </ol>
-
     design:
       columns: '1'
       spacing:
