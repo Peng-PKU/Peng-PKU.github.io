@@ -25,6 +25,5 @@ sections:
         <br>
         
         <span style="font-size: 0.85em;">The JEM-ARM200F NEOARM transmission electron microscope, equipped with a condenser lens aberration corrector, features a cold field emission electron gun, the advanced ASCOR higher-order aberration corrector, and the automated aberration correction software JEOL COSMO. Together with the newly developed ABF detector system, it enables more convenient observation of high-resolution images of light-element-containing samples, achieving atomic-scale resolution for imaging and analysis.</span>
-      background:
-        color: "#ffffff"
+
 ---
