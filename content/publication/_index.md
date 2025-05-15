@@ -28,7 +28,7 @@ sections:
     content:
       title: "<span style=\"font-size: 0.8em;\">2025</span>"
       text: |   
-        <ol style="font-size: 0.6em;">
+        <ol style="font-size: 0.7em;">
           <li>
             <strong>Controllable Synthesis of Out-of-Plane Grown Bi₂TeO₅ with High-κ and Anisotropy for High-Performance Field-Effect Transistors</strong><br>
             <em>Shibo Li, Biao Zhang, Xiaoting Tian, Zijing Zhao, Bailing Li, Zeeshan Ali, Ziyu Meng, Wanting Zhao, <strong><u>Licong Peng</u></strong>, Yanglong Hou</em><br>
