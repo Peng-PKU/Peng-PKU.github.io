@@ -27,7 +27,7 @@ sections:
   - block: markdown
     content:
       title: 
-      subtitle: '2025'
+      subtitle: 2025
       text: |   
         <ol>
           <li>Skyrmion electronics</li>
