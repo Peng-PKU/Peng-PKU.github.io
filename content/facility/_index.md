@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: Facilitis
+      title: Laboratory Facilities
       subtitle: ''
       text: ''
     design:
