@@ -29,7 +29,7 @@ sections:
       title: "<span style=\"font-size: 0.8em;\">2025</span>"
       text: |   
         <ol>
-          <li>Skyrmion electronics</li>
+          <li>**Controllable Synthesis of Out-of-Plane Grown Bi2TeO5 with High-κ and Anisotropy for High-Performance Field-Effect Transistors,** *Shibo Li, Biao Zhang, Xiaoting Tian, Zijing Zhao, Bailing Li, Zeeshan Ali, Ziyu Meng, Wanting Zhao, Licong Peng, Yanglong Hou,* [Nano Letters, 2025.](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.5c01677)</li>
           <li>Spintronic devices</li>
         </ol>
     design:
