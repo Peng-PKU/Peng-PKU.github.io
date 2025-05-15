@@ -37,7 +37,7 @@ sections:
       columns: '1'
       spacing:
         padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+
   - block: markdown
     content:
       title: 2024
@@ -51,7 +51,7 @@ sections:
       columns: '1'
       spacing:
         padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+
   - block: markdown
     content:
       title: 2023
@@ -65,7 +65,7 @@ sections:
       columns: '1'
       spacing:
         padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+
   - block: markdown
     content:
       title: Before 2023
@@ -79,5 +79,5 @@ sections:
       columns: '1'
       spacing:
         padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+
 ---
