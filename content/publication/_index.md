@@ -30,12 +30,12 @@ sections:
       text: |   
         <ol style="font-size: 0.7em;">
           <li>
-            <strong>Reconfigurable Room Temperature Exchange Bias through N\'eel Order Switching in van der Waals Heterostructures</strong><br>
+            <strong>Reconfigurable Room Temperature Exchange Bias through Néel Order Switching in van der Waals Heterostructures</strong><br>
             <em>Jicheng Wang, Shilei Ding, Bei Ding, Zhipeng Hou, Licong Peng, Yilan Jiang, Fengshan Zheng, Zhaochu Luo, Yu Ye, Jinbo Yang, Yanglong Hou, Rui Wu</em><br>
             <a href="https://arxiv.org/abs/2505.04455">arXiv preprint arXiv:2505.04455</a>
           </li>
           <li>
-            <strong>Layer-dependent field-free switching of N\'eel vector in a van der Waals antiferromagnet</strong><br>
+            <strong>Layer-dependent field-free switching of Néel vector in a van der Waals antiferromagnet</strong><br>
             <em>Haoran Guo, Zhongchong Lin, Jinhao Lu, Chao Yun, Guanghui Han, Shoutong Sun, Yu Wu, Wenyun Yang, Dongdong Xiao, Zhifeng Zhu, Licong Peng, Yu Ye, Yanglong Hou, Jinbo Yang, Zhaochu Luo</em><br>
             <a href="https://arxiv.org/abs/2504.06764">arXiv preprint arXiv:2504.06764</a>
           </li>
