@@ -29,7 +29,7 @@ sections:
       title: |
         JEM-ARM200F NEOARM
       image:
-        filename: AMR200.jpg
+        filename: <img src="AMR200.jpg" style="transform: rotate(-90deg);">
       text: |
         <br>
         
