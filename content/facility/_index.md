@@ -55,6 +55,6 @@ sections:
       text: |
         <br>
         
-        <span style="font-size: 0.85em;">Cryo-FIB</span>
+        <span style="font-size: 0.85em;">The Solaris Cryo-FIB/SEM dual-beam system integrates cryogenic sample preparation, focused ion beam milling, and electron beam imaging. Equipped with a Quorum PP3010 cryo-stage and transfer system, it enables cryo-TEM sample preparation and 3D reconstruction under cryogenic conditions. EDS and EBSD attachments support compositional and crystallographic analysis. The system also allows in situ cryo-mechanical testing, making it a powerful platform for cryo-EM, structural biology, and nanoscale materials research.</span>
 
 ---
