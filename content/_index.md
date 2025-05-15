@@ -37,7 +37,7 @@ sections:
 
   - block: markdown
     content:
-      title: CURRENT RESEARCH TOPICS
+      title: Current Research Topics
       subtitle: ''
       text: |
         Among other directions, we are offering projects on the following topics to interested students and post-doctoral researchers:
