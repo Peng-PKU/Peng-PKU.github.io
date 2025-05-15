@@ -1,15 +1,15 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: ""
 date: 2025-05-14
 type: landing
 
 sections:
   - block: markdown
     content:
-      title: Publications
-      subtitle: ''
-      text: ''
+      title: "Publications"
+      subtitle: ""
+      text: ""
     design:
       columns: '1'
       background:
@@ -26,7 +26,7 @@ sections:
     
   - block: markdown
     content:
-      title: <span style="font-size: 1.2em; font-weight: bold;">2025</span>
+      title: "<span style=\"font-size: 1.2em; font-weight: bold;\">2025</span>"
       text: |   
         <ol>
           <li>Skyrmion electronics</li>
@@ -39,13 +39,12 @@ sections:
 
   - block: markdown
     content:
-      title: 2024
+      title: "2024"
       text: |   
         <ol>
           <li>Skyrmion electronics</li>
           <li>Spintronic devices</li>
         </ol>
-
     design:
       columns: '1'
       spacing:
@@ -53,13 +52,12 @@ sections:
 
   - block: markdown
     content:
-      title: 2023
+      title: "2023"
       text: |   
         <ol>
           <li>Skyrmion electronics</li>
           <li>Spintronic devices</li>
         </ol>
-
     design:
       columns: '1'
       spacing:
@@ -67,13 +65,12 @@ sections:
 
   - block: markdown
     content:
-      title: Before 2023
+      title: "Before 2023"
       text: |   
         <ol>
           <li>Skyrmion electronics</li>
           <li>Spintronic devices</li>
         </ol>
-
     design:
       columns: '1'
       spacing:
