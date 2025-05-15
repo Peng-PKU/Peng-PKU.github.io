@@ -29,7 +29,7 @@ sections:
       title: |
         JEM-ARM300F2
       image:
-        filename: AMR300.png
+        filename: ARM300.png
       text: |
         <br>
         
