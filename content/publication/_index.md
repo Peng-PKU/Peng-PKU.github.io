@@ -19,11 +19,4 @@ sections:
       spacing:
         padding: ['40px', '0', '20px', '0']
 
-# Listing view
-view: citation
-
-# Optional banner image (relative to `assets/media/` folder).
-banner:
-  caption: ''
-  image: ''
 ---
