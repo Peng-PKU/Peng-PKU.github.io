@@ -18,13 +18,13 @@ sections:
   - block: hero
     content:
       title: |
-        Research
+        JEM-ARM200F NEOARM
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        <span style="font-size: 0.85em;">**Our group investigates topological magnetism and spintronic device.** Using Lorentz transmission electron microscopy (LTEM), we study real-space spin textures—such as skyrmions, antiskyrmions, and magnetic monopoles—their formation mechanisms, and spin dynamics under electric, thermal, mechanical, and microwave stimuli, complemented by real-time magnetotransport measurements. We further explore their application in spintronic devices.</span>
+        <span style="font-size: 0.85em;">The JEM-ARM200F NEOARM transmission electron microscope, equipped with a condenser lens aberration corrector, features a cold field emission electron gun, the advanced ASCOR higher-order aberration corrector, and the automated aberration correction software JEOL COSMO. Together with the newly developed ABF detector system, it enables more convenient observation of high-resolution images of light-element-containing samples, achieving atomic-scale resolution for imaging and analysis.</span>
       background:
         color: "#ffffff"
 ---
