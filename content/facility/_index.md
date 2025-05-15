@@ -29,7 +29,7 @@ sections:
       title: |
         JEM-ARM200F NEOARM
       image:
-        filename: AMR200.jpg
+        filename: AMR200.png
       text: |
         <br>
         
