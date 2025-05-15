@@ -21,6 +21,8 @@ sections:
         Research
       image:
         filename: welcome.jpg
+      background:
+        color: "#ffffff"
       text: |
         <br>
         
