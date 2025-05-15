@@ -26,7 +26,7 @@ sections:
     
   - block: markdown
     content:
-      title: 2025
+      title: <span style="font-size: 1.0em;">2025</span>
       text: |   
         <ol>
           <li>Skyrmion electronics</li>
