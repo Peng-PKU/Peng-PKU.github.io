@@ -26,7 +26,7 @@ sections:
     
   - block: markdown
     content:
-      title: "<span style=\"font-size: 1.2em; font-weight: bold;\">2025</span>"
+      title: "<span style=\"font-size: 0.8em;\">2025</span>"
       text: |   
         <ol>
           <li>Skyrmion electronics</li>
@@ -39,7 +39,7 @@ sections:
 
   - block: markdown
     content:
-      title: "2024"
+      title: "<span style=\"font-size: 0.8em;\">2024</span>"
       text: |   
         <ol>
           <li>Skyrmion electronics</li>
@@ -52,7 +52,7 @@ sections:
 
   - block: markdown
     content:
-      title: "2023"
+      title: "<span style=\"font-size: 0.8em;\">2023</span>"
       text: |   
         <ol>
           <li>Skyrmion electronics</li>
@@ -65,7 +65,7 @@ sections:
 
   - block: markdown
     content:
-      title: "Before 2023"
+      title: "<span style=\"font-size: 0.8em;\">Before 2023</span>"
       text: |   
         <ol>
           <li>Skyrmion electronics</li>
