@@ -29,8 +29,16 @@ sections:
       title: "<span style=\"font-size: 0.8em;\">2025</span>"
       text: |   
         <ol style="font-size: 0.6em;">
-          <li><strong>Controllable Synthesis of Out-of-Plane Grown Bi₂TeO₅ with High-κ and Anisotropy for High-Performance Field-Effect Transistors</strong>, <em>Shibo Li, Biao Zhang, Xiaoting Tian, Zijing Zhao, Bailing Li, Zeeshan Ali, Ziyu Meng, Wanting Zhao, Licong Peng, Yanglong Hou</em>, <a href="https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.5c01677">Nano Letters, 2025</a>.</li>
-          <li>Spintronic devices</li>
+          <li>
+            <strong>Controllable Synthesis of Out-of-Plane Grown Bi₂TeO₅ with High-κ and Anisotropy for High-Performance Field-Effect Transistors</strong><br>
+            <em>Shibo Li, Biao Zhang, Xiaoting Tian, Zijing Zhao, Bailing Li, Zeeshan Ali, Ziyu Meng, Wanting Zhao, Licong Peng, Yanglong Hou</em><br>
+            <a href="https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.5c01677">Nano Letters, 2025</a>
+          </li>
+          <li>
+            <strong>Spintronic devices</strong><br>
+            <em></em><br>
+            <!-- 若该项有期刊信息，请补充。此处保持原样。 -->
+          </li>
         </ol>
     design:
       columns: '1'
