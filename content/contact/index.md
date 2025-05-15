@@ -5,9 +5,28 @@ date: 2025-05-14
 type: landing
 
 sections:
-  - block: contact
+  - block: markdown
     content:
       title: Contact
+      subtitle: ''
+      text: ''
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: title.png
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: cover
+          text_color_light: true
+      spacing:
+        padding: ['40px', '0', '20px', '0']
+    
+  - block: contact
+    content:
+      title: Null
       text: |-
         Our group recruits undergraduate students, Ph.D. students, and postdoctoral researchers every year. Interested candidates are welcome to get in touch!
       email: licong.peng@pku.edu.cn
