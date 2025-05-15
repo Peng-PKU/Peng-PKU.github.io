@@ -23,13 +23,27 @@ sections:
           text_color_light: true
       spacing:
         padding: ['40px', '0', '20px', '0']
-  - block: hero
+    
+  - block: markdown
     content:
-      title: |
-        Before 2023
+      title: Null
+      subtitle: ''
       text: |
-        <br>
-        
-        <span style="font-size: 0.85em;">JEM-ARM300F2 transmission electron microscope offers state-of-the-art sub-angstrom imaging and analysis for both light and heavy elements. Operating at 40–300 kV, it features a cold field emission gun with enhanced coherence, brightness, and stability. Compatible techniques include HRTEM, EFTEM, STEM HAADF/BF/OBF, EDS/EELS mapping, and 4D-STEM. An electrostatic dose controller enables atomic-scale analysis of beam-sensitive materials. In situ holders allow real-time characterization under cryogenic, high-temperature, and electric field conditions.</span>
+        Among other directions, we are offering projects on the following topics to interested students and post-doctoral researchers:
+    
+        <ol>
+          <li>Skyrmion electronics</li>
+          <li>Spintronic devices</li>
+          <li>Lorentz transmission electron microscopy</li>
+          <li>Micromagnetic simulations</li>
+          <li>Topological magnetic materials, 2D materials, nanomaterials, heterostructure thin films, superconducting materials</li>
+        </ol>
+    
+        <p>Contact us to learn more!</p>
+    design:
+      columns: '1'
+      spacing:
+        padding: ['-20px', '0', '-20px', '0']
+      css_class: fullscreen
 
 ---
