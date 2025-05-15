@@ -37,7 +37,7 @@ sections:
           <li>
             <strong>Layer-dependent field-free switching of N\'eel vector in a van der Waals antiferromagnet</strong><br>
             <em>Haoran Guo, Zhongchong Lin, Jinhao Lu, Chao Yun, Guanghui Han, Shoutong Sun, Yu Wu, Wenyun Yang, Dongdong Xiao, Zhifeng Zhu, Licong Peng, Yu Ye, Yanglong Hou, Jinbo Yang, Zhaochu Luo</em><br>
-            <a href="https://arxiv.org/abs/2505.04455">arXiv preprint arXiv:2504.06764</a>
+            <a href="https://arxiv.org/abs/2504.06764">arXiv preprint arXiv:2504.06764</a>
           </li>
         </ol>
     design:
