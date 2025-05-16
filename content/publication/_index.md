@@ -220,7 +220,101 @@ sections:
           <em>Licong Peng, Ying Zhang, Deshun Hong, Bo Zhang, Jianqi Li, Jianwang Cai, Shouguo Wang, Jirong Sun, Baogen Shen</em><br>
           <a href="https://pubs.aip.org/aip/apl/article-abstract/113/14/142408/903774/Spontaneous-nanometric-magnetic-bubbles-with?redirectedFrom=fulltext">Applied Physics Letters 113 (14), 142408</a>
         </li>
-    
+        <li>
+          <strong>Zero-field skyrmions generated via premartensitic transition in N⁢i50⁢M⁢n35.2⁢I⁢n14.8 alloy</strong><br>
+          <em>Shulan Zuo, Feixiang Liang, Ying Zhang, Licong Peng, Jiefu Xiong, Yao Liu, Rui Li, Tongyun Zhao, Jirong Sun, Fengxia Hu, Baogen Shen</em><br>
+          <a href="https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.2.104408">Physical Review Materials 2 (10), 104408</a>
+        </li>
+        <li>
+          <strong>Multi-field control on magnetic skyrmions</strong><br>
+          <em>Dong Bo-Wen, Zhang Jing-Yan, Peng Li-Cong, He Min, Zhang Ying, Zhao Yun-Chi, Wang Chao, Sun Yang, Cai Jian-Wang, Wang Wen-Hong, Wei Hong-Xiang, Shen Bao-Gen, Jiang Yong, Wang Shou-Guo</em><br>
+          <a href="https://wulixb.iphy.ac.cn/en/article/doi/10.7498/aps.67.20180931">Acta Physica Sinica 67 (13)</a>
+        </li>
+        <li>
+          <strong>Lorentz transmission electron microscopy studies on topological magnetic domains</strong><br>
+          <em>Li-cong Peng, Ying Zhang, Shu-Lan Zuo, Min He, Jian-Wang Cai, Shou-Guo Wang, Hong-Xiang Wei, Jian-qi Li, Tong-yun Zhao, Bao-gen Shen</em><br>
+          <a href="https://iopscience.iop.org/article/10.1088/1674-1056/27/6/066802/meta">Chinese physics B 27 (6), 066802</a>
+        </li>
+        <li>
+          <strong>Magnetic structure of Ho0. 5Y0. 5Mn6Sn6 compound studied by powder neutron diffraction</strong><br>
+          <em>X-Y Li, L-C Peng, L-H He, S-Y Zhang, J-L Yao, Y Zhang, F-W Wang</em><br>
+          <a href="https://pubs.aip.org/aip/jap/article-abstract/123/20/203903/155666/Magnetic-structure-of-Ho0-5Y0-5Mn6Sn6-compound?redirectedFrom=fulltext">Journal of Applied Physics 123 (20)</a>
+        </li>
+        <li>
+          <strong>The indispensable role of the transversal spin fluctuations mechanism in laser-induced demagnetization of Co/Pt multilayers with nanoscale magnetic domains</strong><br>
+          <em>Wei Zhang, Wei He, Li-Cong Peng, Ying Zhang, Jian-Wang Cai, Richard FL Evans, Xiang-Qun Zhang, Zhao-Hua Cheng</em><br>
+          <a href="https://iopscience.iop.org/article/10.1088/1361-6528/aabdc9/meta">Nanotechnology 29 (27), 275703</a>
+        </li>
+        <li>
+          <strong>Evolution of topological skyrmions across the spin reorientation transition in Pt/Co/Ta multilayers</strong><br>
+          <em>Min He, Gang Li, Zhaozhao Zhu, Ying Zhang, Licong Peng, Rui Li, Jianqi Li, Hongxiang Wei, Tongyun Zhao, X-G Zhang, Shouguo Wang, Shi-Zeng Lin, Lin Gu, Guoqiang Yu, JW Cai, Bao-gen Shen</em><br>
+          <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.97.174419">Physical Review B 97 (17), 174419</a>
+        </li>
+        <li>
+          <strong>Multiple tuning of magnetic biskyrmions using in situ L-TEM in centrosymmetric MnNiGa alloy</strong><br>
+          <em>Licong Peng, Ying Zhang, Min He, Bei Ding, Wenhong Wang, Jianqi Li, Jianwang Cai, Shouguo Wang, Guangheng Wu, Baogen Shen</em><br>
+          <a href="https://iopscience.iop.org/article/10.1088/1361-648X/aaa527/meta">J. Phys.: Condens. Matter 30, 065803</a>
+        </li>
+        <li>
+          <strong>Direct observation of the topological spin configurations mediated by the substitution of rare-earth element Y in MnNiGa alloy</strong><br>
+          <em>SL Zuo, Y Zhang, LC Peng, X Zhao, R Li, H Li, JF Xiong, M He, TY Zhao, JR Sun, FX Hu, BG Shen</em><br>
+          <a href="https://pubs.rsc.org/en/content/articlelanding/2018/nr/c7nr08997j/unauth">Nanoscale 10 (5), 2260-2266</a>
+        </li>
+        <li>
+          <strong>Direct observation of the magnetic domain evolution stimulated by temperature and magnetic field in PrMnGeSi alloy</strong><br>
+          <em>Shulan Zuo, Bo , Zhang, Kaiming Qiao, Licong Peng, Rui Li, Jiefu Xiong, Yan Zhang, Xin Zhao, Dan Liu, Tongyun Zhao, Jirong Sun, Fengxia Hu, Ying Zhang, Shen Baogen</em><br>
+          <a href="https://pubs.aip.org/aip/adv/article/8/5/056801/1021553">AIP Advances 8, 056801</a>
+        </li>
+        <li>
+          <strong>Realization of zero-field skyrmions with high-density via electromagnetic manipulation in Pt/Co/Ta multilayers</strong><br>
+          <em>Min He, Licong Peng, Zhaozhao Zhu, Gang Li, Jianwang Cai, Jianqi Li, Hongxiang Wei, Lin Gu, Shouguo Wang, Tongyun Zhao, Baogen Shen, Ying Zhang</em><br>
+          <a href="https://pubs.aip.org/aip/apl/article-abstract/111/20/202403/34491/Realization-of-zero-field-skyrmions-with-high?redirectedFrom=fulltext">Applied Physics Letters 111 (20)</a>
+        </li>
+        <li>
+          <strong>In situ observation of magnetic vortex manipulation by external fields in amorphous CeFeB ribbon</strong><br>
+          <em>Shulan Zuo, Ming Zhang, Rui Li, Ying Zhang, Licong Peng, Jiefu Xiong, Dan Liu, Tongyun Zhao, Fengxia Hu, Baogen Shen, Jirong Sun</em><br>
+          <a href="https://www.sciencedirect.com/science/article/abs/pii/S1359645417306353">Acta Materialia 140, 465-471</a>
+        </li>
+        <li>
+          <strong>Real-space observation of nonvolatile zero-field biskyrmion lattice generation in MnNiGa magnet</strong><br>
+          <em>Licong Peng, Ying Zhang, Wenhong Wang, Min He, Lailai Li, Bei Ding, Jianqi Li, Young Sun, X-G Zhang, Jianwang Cai, Shouguo Wang, Guangheng Wu, Baogen Shen</em><br>
+          <a href="https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.7b03792">Nano Letters 17 (11), 7075-7079</a>
+        </li>
+        <li>
+          <strong>Generation of high-density biskyrmions by electric current</strong><br>
+          <em>Licong Peng, Ying Zhang, Min He, Bei Ding, Wenhong Wang, Huanfang Tian, Jianqi Li, Shouguo Wang, Jianwang Cai, Guangheng Wu, J Ping Liu, Matthew J Kramer, Bao-gen Shen</em><br>
+          <a href="https://www.nature.com/articles/s41535-017-0034-7">npj Quantum Materials 2 (1), 30</a>
+        </li>
+        <li>
+          <strong>Oxygen defect engineering by the current effect assisted with temperature cycling in a perovskite- type La0.7Sr0.3CoO3 film</strong><br>
+          <em>J. Li, J. Wang, H. Kuang, H. R. Zhang, Y. Y. Zhao, K. M. Qiao, F. Wang, W. Liu, W. Wang, L. C. Peng, Y. Zhang, R. C. Yu, F. X. Hu, J. R. Sun, B. G. Shen</em><br>
+          <a href="https://pubs.rsc.org/en/content/articlelanding/2017/nr/c7nr03162a/unauth">Nanoscale 9, 13214-13221</a>
+        </li>
+        <li>
+          <strong>Magnetization process of nanocrystalline mischmetal-Fe-B ribbons</strong><br>
+          <em>Ming Zhang, Yao Liu, Zhubai Li, Licong Peng, Baogen Shen, Fengxia Hu, Jirong Sun</em><br>
+          <a href="https://www.sciencedirect.com/science/article/abs/pii/S0925838816321314">Journal of Alloys and Compounds 688, 1053-1057</a>
+        </li>
+        <li>
+          <strong>Superconducting resonators based on TiN/tapering/NbN/tapering/TiN heterostructures</strong><br>
+          <em>Yong‐Chao Tang, Hui Zhang, Sangil Kwon, Hamid R Mohebbi, David G Cory, Li‐Cong Peng, Lin Gu, Hai‐Zhong Guo, Kui‐Juan Jin, Guo‐Xing Miao</em><br>
+          <a href="https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adem.201600226">Advanced Engineering Materials 18 (10), 1816-1822</a>
+        </li>
+        <li>
+          <strong>A centrosymmetric hexagonal magnet with superstable biskyrmion magnetic nanodomains in a wide temperature range of 100K to 340K</strong><br>
+          <em>Wenhong Wang, Ying Zhang, Guizhou Xu, Licong Peng, Bei Ding, Yue Wang, Zhipeng Hou, Xiaoming Zhang, Xiyang Li, Enke Liu, Shouguo Wang, Jianwang Cai, Fangwei Wang, Jianqi Li, Fengxia Hu, Guangheng Wu, Baogen Shen, Xi-Xiang Zhang</em><br>
+          <a href="https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adma.201600889">Advanced Materials 328, 6887</a>
+        </li>
+        <li>
+          <strong>Tuning of Photoluminescence by Cation Nanosegregation in the (CaMg)x(NaSc)1–xSi2O6 Solid Solution</strong><br>
+          <em>Zhiguo Xia, Guokui Liu, Jianguo Wen, Zhigang Mei, Mahalingam Balasubramanian, Maxim S Molokeev, Licong Peng, Lin Gu, Dean J Miller, Quanlin Liu, Kenneth R Poeppelmeier</em><br>
+          <a href="https://pubs.acs.org/doi/abs/10.1021/jacs.5b12788">Journal of the American Chemical Society 138 (4), 1158-1161</a>
+        </li>
+        <li>
+          <strong>Metal-Insulator Transition Induced by Oxygen Vacancies from Electrochemical Reaction in Ionic Liquid-Gated Manganite Films</strong><br>
+          <em>Chen Ge, Kui-Juan Jin, Lin Gu, Li-Cong Peng, Yong-Sheng Hu, Hai-Zhong Guo, Hong-Fei Shi, Jian-Kun Li, Jia-Ou Wang, Xiang-Xin Guo, Can Wang, Meng He, Hui-Bin Lu, Guo-Zhen Yang</em><br>
+          <a href="https://l03.iphy.ac.cn/l03/papers/2015/2015-Advanced_Materials_Interfaces.pdf">Advanced Materials Interfaces 2 (17)</a>
+        </li>
         </ol>
     design:
       columns: '1'
