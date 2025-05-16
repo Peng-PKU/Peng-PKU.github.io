@@ -92,9 +92,29 @@ sections:
       text: |   
         <ol style="font-size: 0.7em;" reversed>
           <li>
-            <strong>Controllable Synthesis of Out-of-Plane Grown Bi₂TeO₅ with High-κ and Anisotropy for High-Performance Field-Effect Transistors</strong><br>
-            <em>Shibo Li, Biao Zhang, Xiaoting Tian, Zijing Zhao, Bailing Li, Zeeshan Ali, Ziyu Meng, Wanting Zhao, <strong><u>Licong Peng</u></strong>, Yanglong Hou</em><br>
-            <a href="https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.5c01677">Nano Letters, 2025</a>
+            <strong>Confined antiskyrmion motion driven by electric current excitations</strong><br>
+            <em>Yao Guang, Xichao Zhang, Yizhou Liu, Licong Peng, Fehmi Sami Yasin, Kosuke Karube, Daisuke Nakamura, Naoto Nagaosa, Yasujiro Taguchi, Masahito Mochizuki, Yoshinori Tokura, Xiuzhen Yu</em><br>
+            <a href="https://www.nature.com/articles/s41467-024-52072-4">Nature Communications 15 (1), 7701</a>
+          </li>
+          <li>
+            <strong>Harnessing Interlayer Magnetic Coupling for Efficient, Field‐Free Current‐Induced Magnetization Switching in a Magnetic Insulator</strong><br>
+            <em>Leran Wang, Alejandro O Leon, Wenqing He, Zhongyu Liang, Xiaohan Li, Xiaoxiao Fang, Wenyun Yang, Licong Peng, Jinbo Yang, Caihua Wan, Gerrit EW Bauer, Zhaochu Luo</em><br>
+            <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/sstr.202400006">Small Structures 5 (7), 2400006</a>
+          </li>
+          <li>
+            <strong>Enhanced emergent electromagnetic inductance in Tb5Sb3 due to highly disordered helimagnetism</strong><br>
+            <em>Aki Kitaori, Jonathan S White, Victor Ukleev, Licong Peng, Kiyomi Nakajima, Naoya Kanazawa, Xiuzhen Yu, Yoshichika Ōnuki, Yoshinori Tokura</em><br>
+            <a href="https://www.nature.com/articles/s42005-024-01656-z">Communications Physics 7 (1), 159</a>
+          </li>
+          <li>
+            <strong>Topological stability of spin textures in Si/Co-doped helimagnet FeGe</strong><br>
+            <em>Yao Guang, Yukako Fujishiro, Aito Tanaka, Licong Peng, Yoshio Kaneko, Naoya Kanazawa, Yoshinori Tokura, Xiuzhen Yu</em><br>
+            <a href="https://iopscience.iop.org/article/10.1088/2515-7639/ad2ec4/meta">Journal of Physics: Materials 7 (2), 025009</a>
+          </li>
+          <li>
+            <strong>Antiskyrmions and anisotropic magnetic domain structures in S4 symmetry magnets</strong><br>
+            <em>Kosuke Karube, Licong Peng, Jan Masell, Victor Ukleev, Jonathan White, Mamoun Hemmida, Hans-Albrecht Krug von Nidda, István Kézsmárki, Xiuzhen Yu, Fumitaka Kagawa, Yoshinori Tokura, Yasujiro Taguchi</em><br>
+            <a href="https://ui.adsabs.harvard.edu/abs/2024APS..MARA23006K/abstract">APS March Meeting Abstracts 2024, A23. 006</a>
           </li>
         </ol>
     design:
