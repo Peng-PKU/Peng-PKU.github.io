@@ -30,9 +30,14 @@ sections:
       text: |   
         <ol style="font-size: 0.7em;" reversed>
           <li>
+            <strong>Tunable Lattice Transition Mediated by Layer-Dependent Interactions in 3D Antiskyrmions</strong><br>
+            <em>Shangrun Lu, Yusheng Hou, Jinbo Yang, Yanglong Hou, <strong><u>Licong Peng</u></strong></em><br>
+            submitted
+          </li>
+          <li>
             <strong>Reconfigurable Room Temperature Exchange Bias through Néel Order Switching in van der Waals Heterostructures</strong><br>
             <em>Jicheng Wang, Shilei Ding, Bei Ding, Zhipeng Hou, <strong><u>Licong Peng</u></strong>, Yilan Jiang, Fengshan Zheng, Zhaochu Luo, Yu Ye, Jinbo Yang, Yanglong Hou, Rui Wu</em><br>
-            <a href="https://arxiv.org/abs/2505.04455">arXiv preprint arXiv:2505.04455</a>
+            <a href="https://arxiv.org/abs/2505.04455">arXiv:2505.04455</a>
           </li>
           <li>
             <strong>Layer-dependent field-free switching of Néel vector in a van der Waals antiferromagnet</strong><br>
