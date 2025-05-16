@@ -232,12 +232,12 @@ sections:
         </li>
         <li>
           <strong>Lorentz transmission electron microscopy studies on topological magnetic domains</strong><br>
-          <em><strong><u>Li-cong Peng</u></strong>, Ying Zhang, Shu-Lan Zuo, Min He, Jian-Wang Cai, Shou-Guo Wang, Hong-Xiang Wei, Jian-qi Li, Tong-yun Zhao, Bao-gen Shen</em><br>
+          <em><strong><u>Li-Cong Peng</u></strong>, Ying Zhang, Shu-Lan Zuo, Min He, Jian-Wang Cai, Shou-Guo Wang, Hong-Xiang Wei, Jian-qi Li, Tong-yun Zhao, Bao-gen Shen</em><br>
           <a href="https://iopscience.iop.org/article/10.1088/1674-1056/27/6/066802/meta">Chinese physics B 27 (6), 066802</a>
         </li>
         <li>
           <strong>Magnetic structure of Ho0. 5Y0. 5Mn6Sn6 compound studied by powder neutron diffraction</strong><br>
-          <em>X-Y Li, L-C Peng, L-H He, S-Y Zhang, J-L Yao, Y Zhang, F-W Wang</em><br>
+          <em>X-Y Li, <strong><u>L-C Peng</u></strong>, L-H He, S-Y Zhang, J-L Yao, Y Zhang, F-W Wang</em><br>
           <a href="https://pubs.aip.org/aip/jap/article-abstract/123/20/203903/155666/Magnetic-structure-of-Ho0-5Y0-5Mn6Sn6-compound?redirectedFrom=fulltext">Journal of Applied Physics 123 (20)</a>
         </li>
         <li>
