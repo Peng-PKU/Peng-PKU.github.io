@@ -31,7 +31,7 @@ sections:
       text: |
         <ol style="font-size: 0.7em;" reversed>
   
-        <p style="font-size: 0.8em; font-weight: bold;">Preprint</p>
+        <p style="font-size: 2em; font-weight: bold;">Preprint</p>
         <li>
           <strong>Tunable Lattice Transition Mediated by Layer-Dependent Interactions in 3D Antiskyrmions</strong><br>
           <em>Shangrun Lu, Yusheng Hou, Jinbo Yang, Yanglong Hou, <strong><u>Licong Peng</u></strong></em><br>
@@ -104,11 +104,24 @@ sections:
     
         <p style="font-size: 2em; font-weight: bold;">2023</p>
         <li>
-          <strong>Formation Criteria and Evolution Dynamics of Three-Dimensional Antiskyrmions</strong><br>
-          <em><strong><u>Licong Peng</u></strong>, Shangrun Lu, Zixuan Chen, Jinbo Yang, Yanglong Hou</em><br>
-          <a href="https://doi.org/10.1103/PhysRevB.108.144423">Physical Review B, 2023</a>
+          <strong>Efficient current-induced spin torques and field-free magnetization switching in a room-temperature van der Waals magnet</strong><br>
+          <em>Chao Yun, Haoran Guo, Zhongchong Lin, <strong><u>Licong Peng</u></strong>, Zhongyu Liang, Miao Meng, Biao Zhang, Zijing Zhao, Leran Wang, Yifei Ma, Yajing Liu, Weiwei Li, Shuai Ning, Yanglong Hou, Jinbo Yang, Zhaochu Luo</em><br>
+          <a href="https://www.science.org/doi/full/10.1126/sciadv.adj3955">Science Advances 9 (49), eadj3955</a>
         </li>
-  
+        <li>
+          <strong>Room-temperature magnetic antiskyrmions and anisotropic fractal magnetic domain textures in (Fe,Ni,Pd)3P with S4 symmetry</strong><br>
+          <em>Kosuke Karube, <strong><u>Licong Peng</u></strong>, Jan Masell, Victor Ukleev, Jonathan S White, Mamoun Hemmida, Hans-Albrecht Krug von Nidda, István Kézsmárki, Xiuzhen Yu, Fumitaka Kagawa, Yoshinori Tokura, Yasujiro Taguchi</em><br>
+          <a href="https://ieeexplore.ieee.org/abstract/document/10228706">2023 IEEE International Magnetic Conference-Short Papers</a>
+        </li>
+
+        <p style="font-size: 2em; font-weight: bold;">Before 2023</p>
+        <li>
+          <strong>Efficient current-induced spin torques and field-free magnetization switching in a room-temperature van der Waals magnet</strong><br>
+          <em>Chao Yun, Haoran Guo, Zhongchong Lin, Licong Peng, Zhongyu Liang, Miao Meng, Biao Zhang, Zijing Zhao, Leran Wang, Yifei Ma, Yajing Liu, Weiwei Li, Shuai Ning, Yanglong Hou, Jinbo Yang, Zhaochu Luo</em><br>
+          <a href="https://www.science.org/doi/full/10.1126/sciadv.adj3955">Science Advances 9 (49), eadj3955</a>
+        </li>
+
+    
         </ol>
     design:
       columns: '1'
