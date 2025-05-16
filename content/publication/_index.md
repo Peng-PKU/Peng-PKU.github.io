@@ -4,60 +4,60 @@ title: ""
 date: 2025-05-14
 type: landing
 
-- block: markdown
-  content:
-    title: "Publications"
-    subtitle: ""
-    text: |
-      <ol style="font-size: 0.7em;" reversed>
-
-      <p style="font-size: 0.8em; font-weight: bold;">Preprint</p>
-      <li>
-        <strong>Tunable Lattice Transition Mediated by Layer-Dependent Interactions in 3D Antiskyrmions</strong><br>
-        <em>Shangrun Lu, Yusheng Hou, Jinbo Yang, Yanglong Hou, <strong><u>Licong Peng</u></strong></em><br>
-        <strong>submitted</strong>
-      </li>
-
-      <p style="font-size: 0.8em; font-weight: bold;">2025</p>
-      <li>
-        <strong>Controllable Synthesis of Out-of-Plane Grown Bi₂TeO₅ with High-κ and Anisotropy for High-Performance Field-Effect Transistors</strong><br>
-        <em>Shibo Li, Biao Zhang, Wenhui Wang, Yitao Liu, <strong><u>Licong Peng</u></strong>, Yanglong Hou, Lei Xu, Xiaowei Hu</em><br>
-        <a href="https://doi.org/10.1021/acs.nanolett.4c05057">Nano Letters, 2025</a>
-      </li>
-
-      <p style="font-size: 0.8em; font-weight: bold;">2024</p>
-      <li>
-        <strong>Thermally Robust Skyrmion Phase from Antiskyrmion Transformation in Frustrated Magnets</strong><br>
-        <em>Shangrun Lu, Yusheng Hou, <strong><u>Licong Peng</u></strong>, Zixuan Chen, Jinbo Yang, Yanglong Hou</em><br>
-        <a href="https://doi.org/10.1038/s41467-024-47471-0">Nature Communications, 2024</a>
-      </li>
-
-      <li>
-        <strong>Emergent Vortex Strings and Monopole Networks in 3D Synthetic Antiferromagnets</strong><br>
-        <em>Shangrun Lu, <strong><u>Licong Peng</u></strong>, Jinbo Yang, Zixuan Chen, Yanglong Hou</em><br>
-        <a href="https://doi.org/10.48550/arXiv.2401.00837">arXiv:2401.00837</a>
-      </li>
-
-      <li>
-        <strong>Magnetoelastic Tailoring of Topological Spin Textures in Centrosymmetric Magnets</strong><br>
-        <em><strong><u>Licong Peng</u></strong>, Shangrun Lu, Jinbo Yang, Yanglong Hou</em><br>
-        <a href="https://doi.org/10.1088/1367-2630/ad39d7">New Journal of Physics, 2024</a>
-      </li>
-
-      <p style="font-size: 0.8em; font-weight: bold;">2023</p>
-      <li>
-        <strong>Formation Criteria and Evolution Dynamics of Three-Dimensional Antiskyrmions</strong><br>
-        <em><strong><u>Licong Peng</u></strong>, Shangrun Lu, Zixuan Chen, Jinbo Yang, Yanglong Hou</em><br>
-        <a href="https://doi.org/10.1103/PhysRevB.108.144423">Physical Review B, 2023</a>
-      </li>
-
-      </ol>
-  design:
-    columns: '1'
-    spacing:
-      padding: ['40px', '0', '20px', '0']
-
 sections:
+  - block: markdown
+    content:
+      title: "Publications"
+      subtitle: ""
+      text: |
+        <ol style="font-size: 0.7em;" reversed>
+  
+        <p style="font-size: 0.8em; font-weight: bold;">Preprint</p>
+        <li>
+          <strong>Tunable Lattice Transition Mediated by Layer-Dependent Interactions in 3D Antiskyrmions</strong><br>
+          <em>Shangrun Lu, Yusheng Hou, Jinbo Yang, Yanglong Hou, <strong><u>Licong Peng</u></strong></em><br>
+          <strong>submitted</strong>
+        </li>
+  
+        <p style="font-size: 0.8em; font-weight: bold;">2025</p>
+        <li>
+          <strong>Controllable Synthesis of Out-of-Plane Grown Bi₂TeO₅ with High-κ and Anisotropy for High-Performance Field-Effect Transistors</strong><br>
+          <em>Shibo Li, Biao Zhang, Wenhui Wang, Yitao Liu, <strong><u>Licong Peng</u></strong>, Yanglong Hou, Lei Xu, Xiaowei Hu</em><br>
+          <a href="https://doi.org/10.1021/acs.nanolett.4c05057">Nano Letters, 2025</a>
+        </li>
+  
+        <p style="font-size: 0.8em; font-weight: bold;">2024</p>
+        <li>
+          <strong>Thermally Robust Skyrmion Phase from Antiskyrmion Transformation in Frustrated Magnets</strong><br>
+          <em>Shangrun Lu, Yusheng Hou, <strong><u>Licong Peng</u></strong>, Zixuan Chen, Jinbo Yang, Yanglong Hou</em><br>
+          <a href="https://doi.org/10.1038/s41467-024-47471-0">Nature Communications, 2024</a>
+        </li>
+  
+        <li>
+          <strong>Emergent Vortex Strings and Monopole Networks in 3D Synthetic Antiferromagnets</strong><br>
+          <em>Shangrun Lu, <strong><u>Licong Peng</u></strong>, Jinbo Yang, Zixuan Chen, Yanglong Hou</em><br>
+          <a href="https://doi.org/10.48550/arXiv.2401.00837">arXiv:2401.00837</a>
+        </li>
+  
+        <li>
+          <strong>Magnetoelastic Tailoring of Topological Spin Textures in Centrosymmetric Magnets</strong><br>
+          <em><strong><u>Licong Peng</u></strong>, Shangrun Lu, Jinbo Yang, Yanglong Hou</em><br>
+          <a href="https://doi.org/10.1088/1367-2630/ad39d7">New Journal of Physics, 2024</a>
+        </li>
+  
+        <p style="font-size: 0.8em; font-weight: bold;">2023</p>
+        <li>
+          <strong>Formation Criteria and Evolution Dynamics of Three-Dimensional Antiskyrmions</strong><br>
+          <em><strong><u>Licong Peng</u></strong>, Shangrun Lu, Zixuan Chen, Jinbo Yang, Yanglong Hou</em><br>
+          <a href="https://doi.org/10.1103/PhysRevB.108.144423">Physical Review B, 2023</a>
+        </li>
+  
+        </ol>
+    design:
+      columns: '1'
+      spacing:
+        padding: ['40px', '0', '20px', '0']
+
   - block: markdown
     content:
       title: "Publications"
