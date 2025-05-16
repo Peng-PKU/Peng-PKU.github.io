@@ -28,7 +28,7 @@ sections:
     content:
       title: "<span style=\"font-size: 0.8em;\">Preprint</span>"
       text: |   
-        <ol style="font-size: 0.7em;">
+        <ol style="font-size: 0.7em;" reversed>
           <li>
             <strong>Reconfigurable Room Temperature Exchange Bias through Néel Order Switching in van der Waals Heterostructures</strong><br>
             <em>Jicheng Wang, Shilei Ding, Bei Ding, Zhipeng Hou, <strong><u>Licong Peng</u></strong>, Yilan Jiang, Fengshan Zheng, Zhaochu Luo, Yu Ye, Jinbo Yang, Yanglong Hou, Rui Wu</em><br>
