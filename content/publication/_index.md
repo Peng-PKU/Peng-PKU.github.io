@@ -201,11 +201,6 @@ sections:
           <a href="https://pubs.aip.org/aip/apl/article-abstract/114/14/142404/4429/Low-field-formation-of-room-temperature?redirectedFrom=fulltext">Applied Physics Letters 114 (14)</a>
         </li>
         <li>
-          <strong>Observation of square skyrmion lattice in a centrosymmetric non-frustrated magnet</strong><br>
-          <em>Khanh Nguyen, Taro Nakajima, Xiuzhen Yu, Shang Gao, Kiyou Shibata, Yuichi Yamasaki, Hajime Sagayama, Hironori Nakao, <strong><u>Licong Peng</u></strong>, Kiyomi Nakajima, Rina Takagi, Takahisa Arima, Yoshinori Tokura, Shinichiro Seki</em><br>
-          <a href="https://www.jstage.jst.go.jp/article/jpsgaiyo/74.2/0/74.2_2004/_article/-char/ja/">日本物理学会講演概要集 74.2, 2004-2004</a>
-        </li>
-        <li>
           <strong>Relaxation dynamics of zero-field skyrmions over a wide temperature range</strong><br>
           <em><strong><u>Licong Peng</u></strong>, Ying Zhang, Liqin Ke, Tae-Hoon Kim, Qiang Zheng, Jiaqiang Yan, X-G Zhang, Yang Gao, Shouguo Wang, Jianwang Cai, Baogen Shen, Robert J McQueeney, Adam Kaminski, Matthew J Kramer, Lin Zhou</em><br>
           <a href="https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.8b03553">Nano letters 18 (12), 7777-7783</a>
