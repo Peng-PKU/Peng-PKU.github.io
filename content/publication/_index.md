@@ -31,13 +31,18 @@ sections:
         <ol style="font-size: 0.7em;">
           <li>
             <strong>Reconfigurable Room Temperature Exchange Bias through Néel Order Switching in van der Waals Heterostructures</strong><br>
-            <em>Jicheng Wang, Shilei Ding, Bei Ding, Zhipeng Hou, Licong Peng, Yilan Jiang, Fengshan Zheng, Zhaochu Luo, Yu Ye, Jinbo Yang, Yanglong Hou, Rui Wu</em><br>
+            <em>Jicheng Wang, Shilei Ding, Bei Ding, Zhipeng Hou, <strong><u>Licong Peng</u></strong>, Yilan Jiang, Fengshan Zheng, Zhaochu Luo, Yu Ye, Jinbo Yang, Yanglong Hou, Rui Wu</em><br>
             <a href="https://arxiv.org/abs/2505.04455">arXiv preprint arXiv:2505.04455</a>
           </li>
           <li>
             <strong>Layer-dependent field-free switching of Néel vector in a van der Waals antiferromagnet</strong><br>
-            <em>Haoran Guo, Zhongchong Lin, Jinhao Lu, Chao Yun, Guanghui Han, Shoutong Sun, Yu Wu, Wenyun Yang, Dongdong Xiao, Zhifeng Zhu, Licong Peng, Yu Ye, Yanglong Hou, Jinbo Yang, Zhaochu Luo</em><br>
-            <a href="https://arxiv.org/abs/2504.06764">arXiv preprint arXiv:2504.06764</a>
+            <em>Haoran Guo, Zhongchong Lin, Jinhao Lu, Chao Yun, Guanghui Han, Shoutong Sun, Yu Wu, Wenyun Yang, Dongdong Xiao, Zhifeng Zhu, <strong><u>Licong Peng</u></strong>, Yu Ye, Yanglong Hou, Jinbo Yang, Zhaochu Luo</em><br>
+            <a href="https://arxiv.org/abs/2504.06764">arXiv:2504.06764</a>
+          </li>
+          <li>
+            <strong>Semiconducting behaviors at epitaxial Ca0. 5TaO3 interfaces</strong><br>
+            <em>Guangdong Nie, Guanghui Han, Shengpu Huang, Huiyin Wu, Deshun Wang, Kangxi Liu, Hao Ding, Fangdong Tang, <strong><u>Licong Peng</u></strong>, Dashuai Ma, Young Sun, Changjiang Liu, Deshun Hong</em><br>
+            <a href="https://arxiv.org/abs/2502.10730">arXiv:2502.10730</a>
           </li>
         </ol>
     design:
