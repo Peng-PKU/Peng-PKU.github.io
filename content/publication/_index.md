@@ -32,7 +32,7 @@ sections:
           <li>
             <strong>Tunable Lattice Transition Mediated by Layer-Dependent Interactions in 3D Antiskyrmions</strong><br>
             <em>Shangrun Lu, Yusheng Hou, Jinbo Yang, Yanglong Hou, <strong><u>Licong Peng</u></strong></em><br>
-            <strong>Tsubmitted</strong>
+            <strong>submitted</strong>
           </li>
           <li>
             <strong>Reconfigurable Room Temperature Exchange Bias through Néel Order Switching in van der Waals Heterostructures</strong><br>
