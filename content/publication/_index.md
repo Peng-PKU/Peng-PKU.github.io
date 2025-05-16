@@ -116,11 +116,25 @@ sections:
 
         <p style="font-size: 2em; font-weight: bold;">Before 2023</p>
         <li>
-          <strong>Efficient current-induced spin torques and field-free magnetization switching in a room-temperature van der Waals magnet</strong><br>
-          <em>Chao Yun, Haoran Guo, Zhongchong Lin, Licong Peng, Zhongyu Liang, Miao Meng, Biao Zhang, Zijing Zhao, Leran Wang, Yifei Ma, Yajing Liu, Weiwei Li, Shuai Ning, Yanglong Hou, Jinbo Yang, Zhaochu Luo</em><br>
-          <a href="https://www.science.org/doi/full/10.1126/sciadv.adj3955">Science Advances 9 (49), eadj3955</a>
+          <strong>Formation and Control of Zero-Field Antiskyrmions in Confining Geometries</strong><br>
+          <em>Licong Peng, V. Konstantin Iakoubovskii, Kosuke Karube, Yasujiro Taguchi, Yoshinori Tokura, Xiuzhen Yu</em><br>
+          <a href="https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202202950">Advanced Science 9, 2202950</a>
         </li>
-
+        <li>
+          <strong>Real-space observations of three-dimensional antiskyrmions and skyrmion strings</strong><br>
+          <em>Xiuzhen Yu, Konstantin Iakoubovskii, Fehmi Yasin, Licong Peng, Kiyomi Nakajima, Sebastian Schneider, Kosuke Karube, Taka-hisa Arima, Yasujiro Taguchi, Yoshinori Tokura</em><br>
+          <a href="https://pubs.acs.org/doi/full/10.1021/acs.nanolett.2c03142">Nano Lett. 2022, 22, 23, 9358–9364</a>
+        </li>
+        <li>
+          <strong>Doping Control of Magnetic Anisotropy for Stable Antiskyrmion Formation in Schreibersite (Fe,Ni)3P with S4 symmetry</strong><br>
+          <em>Kosuke Karube, Licong Peng, Jan Masell, Mamoun Hemmida, Hans-Albrecht Krug von Nidda, István Kézsmárki, Xiuzhen Yu, Yoshinori Tokura, Yasujiro Taguchi</em><br>
+          <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202108770">Advanced Materials 34, 2108770</a>
+        </li>
+        <li>
+          <strong>Dynamic transition of current-driven single-skyrmion motion in a room-temperature chiral-lattice magnet</strong><br>
+          <em>Licong Peng, Kosuke Karube, Yasujiro Taguchi, Naoto Nagaosa, Yoshinori Tokura, Xiuzhen Yu</em><br>
+          <a href="https://www.nature.com/articles/s41467-021-27073-2">Nature Communications 12, 6797</a>
+        </li>
     
         </ol>
     design:
