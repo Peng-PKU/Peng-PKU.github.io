@@ -65,6 +65,21 @@ sections:
             <em>Shibo Li, Biao Zhang, Xiaoting Tian, Zijing Zhao, Bailing Li, Zeeshan Ali, Ziyu Meng, Wanting Zhao, <strong><u>Licong Peng</u></strong>, Yanglong Hou</em><br>
             <a href="https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.5c01677">Nano Letters, 2025</a>
           </li>
+          <li>
+            <strong>In-situ L-TEM observations of dynamics of nanometric skyrmions and antiskyrmions</strong><br>
+            <em><strong><u>Licong Peng</u></strong>, Sami Fehmi Yasin, Kosuke Karube, Naoya Kanazawa, Yasujiro Taguchi, Yoshinori Tokura, Xiuzhen Yu</em><br>
+            <a href="https://www.sciencedirect.com/science/article/abs/pii/S1748013225000702">Nano Today 62, 102698</a>
+          </li>
+          <li>
+            <strong>The evolution of chemical ordering and property in Fe1+xSe2 upon intercalation ratios</strong><br>
+            <em>Zijing Zhao, Xiaocang Han, Shengcai Zhu, Zhi Fang, Ziyi Han, Zhongyu Liang, Bailing Li, Biao Zhang, Wei Li, Zhaochu Luo, <strong><u>Licong Peng</u></strong>, Xiaoxu Zhao, Xiangguo Li, Jiadong Zhou, Song Gao, Chengxin Wang, Mathias Kläui, Yanglong Hou</em><br>
+            <a href="https://academic.oup.com/nsr/article/12/2/nwae430/7914174?login=false">National Science Review 12 (2), nwae430</a>
+          </li>
+          <li>
+            <strong>Ferromagnetism and structural phase transition in monoclinic FeGe film</strong><br>
+            <em>Guangdong Nie, Guanghui Han, SZ Erfa, Kangxi Liu, Shijian Chen, Hao Ding, Fangdong Tang, Licong Peng, Young Sun, Deshun Hong</em><br>
+            <a href="https://pubs.aip.org/aip/apl/article-abstract/126/2/021906/3331505/Ferromagnetism-and-structural-phase-transition-in?redirectedFrom=fulltext">Applied Physics Letters 126 (2)</a>
+          </li>
         </ol>
     design:
       columns: '1'
