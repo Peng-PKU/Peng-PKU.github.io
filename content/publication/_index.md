@@ -33,7 +33,7 @@ sections:
   
         <p style="font-size: 2em; font-weight: bold;">Preprint</p>
         <li>
-          <strong>Spontaneous Topological Hall Effect in intercalated Co1/3TaS2 Nanoflakes with Non-Coplanar Antiferromagnetic Order</strong><br>
+          <strong>Spontaneous Topological Hall Effect in Intercalated Co1/3TaS2 Nanoflakes with Non-Coplanar Antiferromagnetic Order</strong><br>
           <em>Ziyu Meng, Weiguang Lin, Zijing Zhao, Biao Zhang, Baling Li, Yucheng Lv, Guanghui Han, Shibo Li, Yanzhen Cai, Feng Jin, Ye Zhang, Dongdong Xiao, Teng Yang, <strong><u>Licong Peng</u></strong>, Yanglong Hou</u></strong></em><br>
           <strong>Advanced Functional Materials, Under Press</strong>
         </li>
