@@ -96,11 +96,6 @@ sections:
           <em>Yao Guang, Yukako Fujishiro, Aito Tanaka, <strong><u>Licong Peng</u></strong>, Yoshio Kaneko, Naoya Kanazawa, Yoshinori Tokura, Xiuzhen Yu</em><br>
           <a href="https://iopscience.iop.org/article/10.1088/2515-7639/ad2ec4/meta">Journal of Physics: Materials 7 (2), 025009</a>
         </li>
-#        <li>
-#          <strong>Antiskyrmions and anisotropic magnetic domain structures in S4 symmetry magnets</strong><br>
-#          <em>Kosuke Karube, <strong><u>Licong Peng</u></strong>, Jan Masell, Victor Ukleev, Jonathan White, Mamoun Hemmida, Hans-Albrecht Krug von Nidda, István Kézsmárki, Xiuzhen Yu, Fumitaka Kagawa, Yoshinori Tokura, Yasujiro Taguchi</em><br>
-#          <a href="https://ui.adsabs.harvard.edu/abs/2024APS..MARA23006K/abstract">APS March Meeting Abstracts 2024, A23. 006</a>
-#        </li>
     
         <p style="font-size: 2em; font-weight: bold;">2023</p>
         <li>
@@ -108,12 +103,7 @@ sections:
           <em>Chao Yun, Haoran Guo, Zhongchong Lin, <strong><u>Licong Peng</u></strong>, Zhongyu Liang, Miao Meng, Biao Zhang, Zijing Zhao, Leran Wang, Yifei Ma, Yajing Liu, Weiwei Li, Shuai Ning, Yanglong Hou, Jinbo Yang, Zhaochu Luo</em><br>
           <a href="https://www.science.org/doi/full/10.1126/sciadv.adj3955">Science Advances 9 (49), eadj3955</a>
         </li>
-#        <li>
-#          <strong>Room-temperature magnetic antiskyrmions and anisotropic fractal magnetic domain textures in (Fe,Ni,Pd)3P with S4 symmetry</strong><br>
-#          <em>Kosuke Karube, <strong><u>Licong Peng</u></strong>, Jan Masell, Victor Ukleev, Jonathan S White, Mamoun Hemmida, Hans-Albrecht Krug von Nidda, István Kézsmárki, Xiuzhen Yu, Fumitaka Kagawa, Yoshinori Tokura, Yasujiro Taguchi</em><br>
-#          <a href="https://ieeexplore.ieee.org/abstract/document/10228706">2023 IEEE International Magnetic Conference-Short Papers</a>
-#        </li>
-
+        
         <p style="font-size: 2em; font-weight: bold;">Before 2023</p>
         <li>
           <strong>Formation and Control of Zero-Field Antiskyrmions in Confining Geometries</strong><br>
