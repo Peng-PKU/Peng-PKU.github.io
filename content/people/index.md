@@ -26,7 +26,7 @@ sections:
     
   - block: people
     content:
-      title: 
+      # title: ''
       text: >
         <span style="font-size: 1.25rem;">
         We are the <em>Topological Magnetism & L-TEM Lab</em>,  
