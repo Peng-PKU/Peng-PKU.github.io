@@ -27,12 +27,12 @@ sections:
   - block: hero
     content:
       title: |
-        <span style="font-size: 0.8em; font-weight: bold; margin-top: 0.1em; margin-bottom: 0.1em;">Research</span>
+        <span style="font-size: 0.7em; margin-top: 0.1em; margin-bottom: 0.1em;">Research</span>
       image:
         filename: welcome.jpg
       text: |
         
-        <span style="font-size: 0.8em;">**We investigate topological magnetism and novel spin textures**, focusing on the creation, manipulation, and dynamics of skyrmion and antiskyrmion structures under external stimuli. Our research integrates in situ L-TEM, 3D electron tomography, 4D-STEM, and micromagnetic simulations to reconstruct spin textures and uncover their underlying mechanisms. Our goal is to advance the fundamental understanding of emergent topological states and their field-driven phase transitions toward future spintronic applications.</span>
+        <span style="font-size: 0.7em;">**We investigate topological magnetism and novel spin textures**, focusing on the creation, manipulation, and dynamics of skyrmion and antiskyrmion structures under external stimuli. Our research integrates in situ L-TEM, 3D electron tomography, 4D-STEM, and micromagnetic simulations to reconstruct spin textures and uncover their underlying mechanisms. Our goal is to advance the fundamental understanding of emergent topological states and their field-driven phase transitions toward future spintronic applications.</span>
 
   - block: markdown
     content:
