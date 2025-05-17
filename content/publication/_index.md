@@ -76,7 +76,7 @@ sections:
         </li>
         <li>
           <strong>Ferromagnetism and structural phase transition in monoclinic FeGe film</strong><br>
-          <em>Guangdong Nie, Guanghui Han, SZ Erfa, Kangxi Liu, Shijian Chen, Hao Ding, Fangdong Tang, <strong><u>Licong Peng</u></strong>, Young Sun, Deshun Hong</em><br>
+          <em>Guangdong Nie, Guanghui Han, SZ Erfa, Kangxi Liu, Shijian Chen, Hao Ding, Fangdong Tang, <strong><u>Licong Peng</u></strong>, Young Sun, Deshun Hong*</em><br>
           <a href="https://pubs.aip.org/aip/apl/article-abstract/126/2/021906/3331505/Ferromagnetism-and-structural-phase-transition-in?redirectedFrom=fulltext">Applied Physics Letters 126 (2)</a>
         </li>
   
