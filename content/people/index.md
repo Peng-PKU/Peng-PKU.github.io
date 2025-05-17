@@ -30,9 +30,9 @@ sections:
       text: >
         <span style="font-size: 1.25rem;">
         We are the <em>Topological Magnetism & L-TEM Lab</em>,  
-        a research subgroup within the broader team led by  
+       a research division under the leadership of   
         <a href="https://faculty.pku.edu.cn/houyanglong/zh_CN/xsxx/50668/list/index.htm" target="_blank">Prof. Yanglong Hou</a> at Peking University.  
-        Below are the main members of our lab.
+        We focus on emergent spin textures and topological phenomena in magnetic systems. Below is an introduction to our core members.
         </span>
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
