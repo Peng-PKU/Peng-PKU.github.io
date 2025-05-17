@@ -49,12 +49,12 @@ sections:
         </li>
         <li>
           <strong>Layer-dependent field-free switching of Néel vector in a van der Waals antiferromagnet</strong><br>
-          <em>Haoran Guo, Zhongchong Lin, Jinhao Lu, Chao Yun, Guanghui Han, Shoutong Sun, Yu Wu, Wenyun Yang, Dongdong Xiao, Zhifeng Zhu, <strong><u>Licong Peng</u></strong>, Yu Ye, Yanglong Hou, Jinbo Yang, Zhaochu Luo</em><br>
+          <em>Haoran Guo#, Zhongchong Lin#, Jinhao Lu, Chao Yun*, Guanghui Han, Shoutong Sun, Yu Wu, Wenyun Yang, Dongdong Xiao, Zhifeng Zhu, <strong><u>Licong Peng</u></strong>, Yu Ye, Yanglong Hou*, Jinbo Yang*, Zhaochu Luo*</em><br>
           <a href="https://arxiv.org/abs/2504.06764">arXiv:2504.06764</a>
         </li>
         <li>
           <strong>Semiconducting behaviors at epitaxial Ca0. 5TaO3 interfaces</strong><br>
-          <em>Guangdong Nie, Guanghui Han, Shengpu Huang, Huiyin Wu, Deshun Wang, Kangxi Liu, Hao Ding, Fangdong Tang, <strong><u>Licong Peng</u></strong>, Dashuai Ma, Young Sun, Changjiang Liu, Deshun Hong</em><br>
+          <em>Guangdong Nie#, Guanghui Han#, Shengpu Huang, Huiyin Wu, Deshun Wang, Kangxi Liu, Hao Ding, Fangdong Tang, <strong><u>Licong Peng</u></strong>, Dashuai Ma, Young Sun, Changjiang Liu, Deshun Hong*</em><br>
           <a href="https://arxiv.org/abs/2502.10730">arXiv:2502.10730</a>
         </li>
     
