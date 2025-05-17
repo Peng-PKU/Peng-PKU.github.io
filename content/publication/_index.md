@@ -112,12 +112,12 @@ sections:
         <p style="font-size: 2em; font-weight: bold;">Before 2023</p>
         <li>
           <strong>Formation and Control of Zero-Field Antiskyrmions in Confining Geometries</strong><br>
-          <em><strong><u>Licong Peng</u></strong>, V. Konstantin Iakoubovskii, Kosuke Karube, Yasujiro Taguchi, Yoshinori Tokura, Xiuzhen Yu</em><br>
+          <em><strong><u>Licong Peng*</u></strong>, V. Konstantin Iakoubovskii, Kosuke Karube, Yasujiro Taguchi, Yoshinori Tokura, Xiuzhen Yu*</em><br>
           <a href="https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202202950">Advanced Science 9, 2202950</a>
         </li>
         <li>
           <strong>Real-space observations of three-dimensional antiskyrmions and skyrmion strings</strong><br>
-          <em>Xiuzhen Yu, Konstantin Iakoubovskii, Fehmi Yasin, <strong><u>Licong Peng</u></strong>, Kiyomi Nakajima, Sebastian Schneider, Kosuke Karube, Taka-hisa Arima, Yasujiro Taguchi, Yoshinori Tokura</em><br>
+          <em>Xiuzhen Yu*, Konstantin Iakoubovskii, Fehmi Yasin, <strong><u>Licong Peng</u></strong>, Kiyomi Nakajima, Sebastian Schneider, Kosuke Karube, Taka-hisa Arima, Yasujiro Taguchi, Yoshinori Tokura</em><br>
           <a href="https://pubs.acs.org/doi/full/10.1021/acs.nanolett.2c03142">Nano Lett. 2022, 22, 23, 9358–9364</a>
         </li>
         <li>
