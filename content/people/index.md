@@ -29,7 +29,7 @@ sections:
       title: 
       text: >
         <span style="font-size: 1.25rem;">
-        We are the <em>Lorentz Topological Magnetism Laboratory</em>,  
+        We are the <em>Topological Magnetism & L-TEM Lab</em>,  
         a research subgroup within the broader team led by  
         <a href="https://faculty.pku.edu.cn/houyanglong/zh_CN/xsxx/50668/list/index.htm" target="_blank">Prof. Yanglong Hou</a> at Peking University.  
         Below are the main members of our lab.
