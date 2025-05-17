@@ -29,7 +29,8 @@ sections:
       title: ""
       subtitle: ""
       text: |
-        [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=xUzcVE4AAAAJ&view_op=list_works&sortby=pubdate)
+        <a href="https://scholar.google.com/citations?hl=zh-CN&user=xUzcVE4AAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>
+        <a href="https://orcid.org/0000-0002-8580-2285">ORCID</a>
         <ol style="font-size: 0.7em;" reversed>
   
         <p style="font-size: 2em; font-weight: bold; margin-top: 0.1em; margin-bottom: 0.1em;">Preprint</p>
