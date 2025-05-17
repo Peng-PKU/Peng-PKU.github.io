@@ -36,7 +36,7 @@ sections:
         <li>
           <strong>Tunable Lattice Transition Mediated by Layer-Dependent Interactions in 3D Antiskyrmions</strong><br>
           <em>Shangrun Lu, Yusheng Hou, Jinbo Yang, Yanglong Hou*, <strong><u>Licong Peng*</u></strong></em><br>
-          <strong>Submitted</strong>
+          <strong>Under Review</strong>
         </li>
         <li>
           <strong>Spontaneous Topological Hall Effect in Intercalated Co1/3TaS2 Nanoflakes with Non-Coplanar Antiferromagnetic Order</strong><br>
