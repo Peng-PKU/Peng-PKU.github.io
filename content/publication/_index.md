@@ -34,17 +34,17 @@ sections:
         <p style="font-size: 2em; font-weight: bold;">Preprint</p>
         <li>
           <strong>Spontaneous Topological Hall Effect in Intercalated Co1/3TaS2 Nanoflakes with Non-Coplanar Antiferromagnetic Order</strong><br>
-          <em>Ziyu Meng, Weiguang Lin, Zijing Zhao, Biao Zhang, Baling Li, Yucheng Lv, Guanghui Han, Shibo Li, Yanzhen Cai, Feng Jin, Ye Zhang, Dongdong Xiao, Teng Yang, <strong><u>Licong Peng</u></strong>, Yanglong Hou</u></strong></em><br>
+          <em>Ziyu Meng, Weiguang Lin, Zijing Zhao, Biao Zhang, Baling Li, Yucheng Lv, Guanghui Han, Shibo Li, Yanzhen Cai, Feng Jin, Ye Zhang, Dongdong Xiao, Teng Yang, <strong><u>Licong Peng*</u></strong>, Yanglong Hou*</u></strong></em><br>
           <strong>Advanced Functional Materials, Under Press</strong>
         </li>
         <li>
           <strong>Tunable Lattice Transition Mediated by Layer-Dependent Interactions in 3D Antiskyrmions</strong><br>
-          <em>Shangrun Lu, Yusheng Hou, Jinbo Yang, Yanglong Hou, <strong><u>Licong Peng</u></strong></em><br>
+          <em>Shangrun Lu, Yusheng Hou, Jinbo Yang, Yanglong Hou*, <strong><u>Licong Peng*</u></strong></em><br>
           <strong>Submitted</strong>
         </li>
         <li>
           <strong>Reconfigurable Room Temperature Exchange Bias through Néel Order Switching in van der Waals Heterostructures</strong><br>
-          <em>Jicheng Wang, Shilei Ding, Bei Ding, Zhipeng Hou, <strong><u>Licong Peng</u></strong>, Yilan Jiang, Fengshan Zheng, Zhaochu Luo, Yu Ye, Jinbo Yang, Yanglong Hou, Rui Wu</em><br>
+          <em>Jicheng Wang, Shilei Ding*, Bei Ding, Zhipeng Hou*, <strong><u>Licong Peng</u></strong>, Yilan Jiang, Fengshan Zheng, Zhaochu Luo*, Yu Ye, Jinbo Yang, Yanglong Hou*, Rui Wu*</em><br>
           <a href="https://arxiv.org/abs/2505.04455">arXiv:2505.04455</a>
         </li>
         <li>
