@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: Welcome to Peng-PKU Lab
+      title: Welcome to Topological Magnetism & L-TEM Lab
       subtitle: ''
       text: ''
     design:
