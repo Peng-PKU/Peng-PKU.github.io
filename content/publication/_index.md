@@ -122,53 +122,48 @@ sections:
         </li>
         <li>
           <strong>Doping Control of Magnetic Anisotropy for Stable Antiskyrmion Formation in Schreibersite (Fe,Ni)3P with S4 symmetry</strong><br>
-          <em>Kosuke Karube, <strong><u>Licong Peng</u></strong>, Jan Masell, Mamoun Hemmida, Hans-Albrecht Krug von Nidda, István Kézsmárki, Xiuzhen Yu, Yoshinori Tokura, Yasujiro Taguchi</em><br>
+          <em>Kosuke Karube*, <strong><u>Licong Peng</u></strong>, Jan Masell, Mamoun Hemmida, Hans-Albrecht Krug von Nidda, István Kézsmárki, Xiuzhen Yu, Yoshinori Tokura, Yasujiro Taguchi*</em><br>
           <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202108770">Advanced Materials 34, 2108770</a>
         </li>
         <li>
           <strong>Dynamic transition of current-driven single-skyrmion motion in a room-temperature chiral-lattice magnet</strong><br>
-          <em><strong><u>Licong Peng</u></strong>, Kosuke Karube, Yasujiro Taguchi, Naoto Nagaosa, Yoshinori Tokura, Xiuzhen Yu</em><br>
+          <em><strong><u>Licong Peng*</u></strong>, Kosuke Karube, Yasujiro Taguchi, Naoto Nagaosa, Yoshinori Tokura, Xiuzhen Yu*</em><br>
           <a href="https://www.nature.com/articles/s41467-021-27073-2">Nature Communications 12, 6797</a>
         </li>
         <li>
           <strong>Tunable Néel-Bloch magnetic twists in Fe3GeTe2 with van der Waals structure</strong><br>
-          <em><strong><u>Licong Peng</u></strong>, Fehmi S Yasin, Tae-Eon Park, Sung Jong Kim, Xichao Zhang, Takuro Nagai, Koji Kimoto, Seonghoon Woo, Xiuzhen Yu</em><br>
+          <em><strong><u>Licong Peng*</u></strong>, Fehmi S Yasin, Tae-Eon Park, Sung Jong Kim, Xichao Zhang, Takuro Nagai, Koji Kimoto, Seonghoon Woo, Xiuzhen Yu*</em><br>
           <a href="https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adfm.202103583">Advanced Functional Materials 31, 2103583</a>
         </li>
         <li>
           <strong>Néel-type skyrmions and their current-induced motion in van der Waals ferromagnet-based heterostructures</strong><br>
-          <em>Tae-Eon Park, <strong><u>Licong Peng</u></strong>, Jinghua Liang, Ali Hallal, Fehmi Sami Yasin, Xichao Zhang, Sung Jong Kim, Kyung Mee Song, Kwangsu Kim, Markus Weigand, Gisela Schuetz, Simone Finizio, Joerg Raabe, Karin Garcia, Jing Xia, Yan Zhou, Motohiko Ezawa, Xiaoxi Liu, Joonyeon Chang, Hyun Cheol Koo, Young Duck Kim, Mairbek Chshiev, Albert Fert, Hongxin Yang, Xiuzhen Yu, Seonghoon Woo</em><br>
+          <em>Tae-Eon Park, <strong><u>Licong Peng</u></strong>, Jinghua Liang, Ali Hallal, Fehmi Sami Yasin, Xichao Zhang, Sung Jong Kim, Kyung Mee Song, Kwangsu Kim, Markus Weigand, Gisela Schuetz, Simone Finizio, Joerg Raabe, Karin Garcia, Jing Xia, Yan Zhou, Motohiko Ezawa, Xiaoxi Liu, Joonyeon Chang, Hyun Cheol Koo, Young Duck Kim, Mairbek Chshiev, Albert Fert, Hongxin Yang*, Xiuzhen Yu*, Seonghoon Woo*</em><br>
           <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.104410">PHYSICAL REVIEW B 103, 104410</a>
         </li>
         <li>
           <strong>Room-temperature antiskyrmions and sawtooth surface textures in a non-centrosymmetric magnet with S4 symmetry</strong><br>
-          <em>Kosuke Karube, <strong><u>Licong Peng</u></strong>, Jan Masell, Xiuzhen Yu, Fumitaka Kagawa, Yoshinori Tokura, Yasujiro Taguchi</em><br>
+          <em>Kosuke Karube*#, <strong><u>Licong Peng#</u></strong>, Jan Masell, Xiuzhen Yu, Fumitaka Kagawa, Yoshinori Tokura, Yasujiro Taguchi*</em><br>
           <a href="https://www.nature.com/articles/s41563-020-00898-w">Nature Materials 20, 335-340</a>
         </li>
         <li>
           <strong>Heteroepitaxial growth of wide bandgap cuprous iodide films exhibiting clear free-exciton emission</strong><br>
-          <em>S Inagaki, M Nakamura, Y Okamura, M Ogino, Y Takahashi, <strong><u>LC Peng</u></strong>, XZ Yu, Y Tokura, M Kawasaki</em><br>
+          <em>S Inagaki*, M Nakamura, Y Okamura, M Ogino, Y Takahashi, <strong><u>LC Peng</u></strong>, XZ Yu, Y Tokura, M Kawasaki</em><br>
           <a href="https://pubs.aip.org/aip/apl/article-abstract/118/1/012103/39831/Heteroepitaxial-growth-of-wide-bandgap-cuprous?redirectedFrom=fulltext">Applied Physics Letters 118 (1)</a>
         </li>
         <li>
           <strong>Bloch Lines Constituting Antiskyrmions Captured via Differential Phase Contrast</strong><br>
-          <em>Fehmi S Yasin, <strong><u>Licong Peng</u></strong>, Rina Takagi, Naoya Kanazawa, Shinichiro Seki, Yoshinori Tokura, Xiuzhen Yu</em><br>
+          <em>Fehmi S Yasin*, <strong><u>Licong Peng</u></strong>, Rina Takagi, Naoya Kanazawa, Shinichiro Seki, Yoshinori Tokura, Xiuzhen Yu*</em><br>
           <a href="https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adma.202004206">Advanced materials 32, 2004206</a>
         </li>
         <li>
           <strong>Nanometric square skyrmion lattice in a centrosymmetric tetragonal magnet</strong><br>
-          <em>Nguyen Duy Khanh, Taro Nakajima, Xiuzhen Yu, Shang Gao, Kiyou Shibata, Max Hirschberger, Yuichi Yamasaki, Hajime Sagayama, Hironori Nakao, <strong><u>Licong Peng</u></strong>, Kiyomi Nakajima, Rina Takagi, Taka-hisa Arima, Yoshinori Tokura, Shinichiro Seki</em><br>
+          <em>Nguyen Duy Khanh*, Taro Nakajima, Xiuzhen Yu, Shang Gao, Kiyou Shibata, Max Hirschberger, Yuichi Yamasaki, Hajime Sagayama, Hironori Nakao, <strong><u>Licong Peng</u></strong>, Kiyomi Nakajima, Rina Takagi, Taka-hisa Arima, Yoshinori Tokura, Shinichiro Seki*</em><br>
           <a href="https://www.nature.com/articles/s41565-020-0684-7">Nature Nanotechnology 15, 444-449</a>
         </li>
         <li>
           <strong>Molecular beam epitaxy of high-quality CuI thin films on a low temperature grown buffer layer</strong><br>
-          <em>S Inagaki, M Nakamura, N Aizawa, <strong><u>LC Peng</u></strong>, XZ Yu, Y Tokura, M Kawasaki</em><br>
+          <em>S Inagaki, M Nakamura*, N Aizawa, <strong><u>LC Peng</u></strong>, XZ Yu, Y Tokura, M Kawasaki</em><br>
           <a href="https://pubs.aip.org/aip/apl/article-abstract/116/19/192105/39038/Molecular-beam-epitaxy-of-high-quality-CuI-thin?redirectedFrom=fulltext">Applied Physics Letters 116 (19)</a>
-        </li>
-        <li>
-          <strong>Formation of square skyrmion lattice in a centrosymmetric magnet without geometrical frustration</strong><br>
-          <em>Khanh Nguyen, Taro Nakajima, Xiuzhen Yu, Shang Gao, Max Hirschberger, Yuichi Yamasaki, Hajime Sagayama, Hironori Nakao, <strong><u>Licong Peng</u></strong>, Kiyomi Nakajima, Kiyou Shibata, Rina Takagi, Taka-hisa Arima, Yoshinori Tokura, Shinichiro Seki</em><br>
-          <a href="https://meetings.aps.org/Meeting/MAR20/Session/F41.4">Bulletin of the American Physical Society 65</a>
         </li>
         <li>
           <strong>Quantitative Measurement of Topological Spin Textures via Differential Phase Contrast</strong><br>
