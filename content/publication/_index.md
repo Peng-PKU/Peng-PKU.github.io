@@ -138,7 +138,7 @@ sections:
         <li>
           <strong>Néel-type skyrmions and their current-induced motion in van der Waals ferromagnet-based heterostructures</strong><br>
           <em>Tae-Eon Park, <strong><u>Licong Peng</u></strong>, Jinghua Liang, Ali Hallal, Fehmi Sami Yasin, Xichao Zhang, Sung Jong Kim, Kyung Mee Song, Kwangsu Kim, Markus Weigand, Gisela Schuetz, Simone Finizio, Joerg Raabe, Karin Garcia, Jing Xia, Yan Zhou, Motohiko Ezawa, Xiaoxi Liu, Joonyeon Chang, Hyun Cheol Koo, Young Duck Kim, Mairbek Chshiev, Albert Fert, Hongxin Yang*, Xiuzhen Yu*, Seonghoon Woo*</em><br>
-          <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.104410">PHYSICAL REVIEW B 103, 104410</a>
+          <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.104410">Physical Review B 103, 104410</a>
         </li>
         <li>
           <strong>Room-temperature antiskyrmions and sawtooth surface textures in a non-centrosymmetric magnet with S4 symmetry</strong><br>
@@ -166,11 +166,6 @@ sections:
           <a href="https://pubs.aip.org/aip/apl/article-abstract/116/19/192105/39038/Molecular-beam-epitaxy-of-high-quality-CuI-thin?redirectedFrom=fulltext">Applied Physics Letters 116 (19)</a>
         </li>
         <li>
-          <strong>Quantitative Measurement of Topological Spin Textures via Differential Phase Contrast</strong><br>
-          <em>Fehmi Yasin, <strong><u>Licong Peng</u></strong>, Tae-Eon Park, Naoya Kanazawa, Seonghoon Woo, Yoshinori Tokura, Xiuzhen Yu</em><br>
-          <a href="https://web.archive.org/web/20201107034635id_/https://www.cambridge.org/core/services/aop-cambridge-core/content/view/70249B724F11FBD1BFCA14063EDF626E/S1431927620015299a.pdf/div-class-title-quantitative-measurement-of-topological-spin-textures-via-differential-phase-contrast-div.pdf">Microscopy and Microanalysis, 1-3</a>
-        </li>
-        <li>
           <strong>Controlled transformation of skyrmions and antiskyrmions in a non-centrosymmetric magnet</strong><br>
           <em><strong><u>Licong Peng*</u></strong>, Rina Takagi, Wataru Koshibae, Kiyou Shibata, Kiyomi Nakajima, Taka-hisa Arima, Naoto Nagaosa, Shinichiro Seki, Xiuzhen Yu*, Yoshinori Tokura</em><br>
           <a href="https://www.nature.com/articles/s41565-019-0616-6">Nature Nanotechnology 15 (3), 181-186</a>
@@ -179,16 +174,6 @@ sections:
           <strong>Skyrmion phase and competing magnetic orders on a breathing kagomé lattice</strong><br>
           <em>Max Hirschberger*, Taro Nakajima, Shang Gao, <strong><u>Licong Peng</u></strong>, Akiko Kikkawa, Takashi Kurumaji, Markus Kriener, Yuichi Yamasaki, Hajime Sagayama, Hironori Nakao, Kazuki Ohishi, Kazuhisa Kakurai, Yasujiro Taguchi, Xiuzhen Yu, Taka-hisa Arima, Yoshinori Tokura</em><br>
           <a href="https://www.nature.com/articles/s41467-019-13675-4">Nature communications 10 (1), 5831</a>
-        </li>
-        <li>
-          <strong>Formation and Relaxation Dynamics of Magnetic Skyrmion</strong><br>
-          <em>Tae-Hoon Kim, <strong><u>Licong Peng</u></strong>, Ying Zhang, Liqin Ke, Brandt Jensen, X-G Zhang, Matthew J Kramer, Lin Zhou*</em><br>
-          <a href="https://academic.oup.com/mam/article-abstract/25/S2/36/6891605?redirectedFrom=fulltext&login=false">Microscopy and Microanalysis 25 (S2), 36-37</a>
-        </li>
-        <li>
-          <strong>Real-space observation of a transformation from antiskyrmion to skyrmion by Lorentz TEM</strong><br>
-          <em><strong><u>Licong Peng*</u></strong>, Rina Takagi, Wataru Koshibae, Kiyou Shibata, Taka-hisa Arima, Naoto Nagaosa, Yoshinori Tokura, Shinichiro Seki, Xiuzhen Yu</em><br>
-          <a href="https://academic.oup.com/mam/article-abstract/25/S2/1840/6892520?redirectedFrom=fulltext">Microscopy and Microanalysis 25 (S2), 1840-1841</a>
         </li>
         <li>
           <strong>Low-field formation of room-temperature biskyrmions in centrosymmetric MnPdGa magnet</strong><br>
