@@ -27,7 +27,7 @@ sections:
   - block: hero
     content:
       title: |
-        <span style="font-size: 1em; font-weight: bold; margin-top: 0.1em; margin-bottom: 0.1em;">Research</span>
+        <span style="font-size: 0.8em; font-weight: bold; margin-top: 0.1em; margin-bottom: 0.1em;">Research</span>
       image:
         filename: welcome.jpg
       text: |
