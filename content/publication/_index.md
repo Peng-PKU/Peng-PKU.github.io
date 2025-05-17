@@ -172,23 +172,23 @@ sections:
         </li>
         <li>
           <strong>Controlled transformation of skyrmions and antiskyrmions in a non-centrosymmetric magnet</strong><br>
-          <em><strong><u>Licong Peng</u></strong>, Rina Takagi, Wataru Koshibae, Kiyou Shibata, Kiyomi Nakajima, Taka-hisa Arima, Naoto Nagaosa, Shinichiro Seki, Xiuzhen Yu, Yoshinori Tokura</em><br>
+          <em><strong><u>Licong Peng*</u></strong>, Rina Takagi, Wataru Koshibae, Kiyou Shibata, Kiyomi Nakajima, Taka-hisa Arima, Naoto Nagaosa, Shinichiro Seki, Xiuzhen Yu*, Yoshinori Tokura</em><br>
           <a href="https://www.nature.com/articles/s41565-019-0616-6">Nature Nanotechnology 15 (3), 181-186</a>
         </li>
         <li>
           <strong>Skyrmion phase and competing magnetic orders on a breathing kagomé lattice</strong><br>
-          <em>Max Hirschberger, Taro Nakajima, Shang Gao, <strong><u>Licong Peng</u></strong>, Akiko Kikkawa, Takashi Kurumaji, Markus Kriener, Yuichi Yamasaki, Hajime Sagayama, Hironori Nakao, Kazuki Ohishi, Kazuhisa Kakurai, Yasujiro Taguchi, Xiuzhen Yu, Taka-hisa Arima, Yoshinori Tokura</em><br>
+          <em>Max Hirschberger*, Taro Nakajima, Shang Gao, <strong><u>Licong Peng</u></strong>, Akiko Kikkawa, Takashi Kurumaji, Markus Kriener, Yuichi Yamasaki, Hajime Sagayama, Hironori Nakao, Kazuki Ohishi, Kazuhisa Kakurai, Yasujiro Taguchi, Xiuzhen Yu, Taka-hisa Arima, Yoshinori Tokura</em><br>
           <a href="https://www.nature.com/articles/s41467-019-13675-4">Nature communications 10 (1), 5831</a>
         </li>
         <li>
           <strong>Formation and Relaxation Dynamics of Magnetic Skyrmion</strong><br>
-          <em>Tae-Hoon Kim, <strong><u>Licong Peng</u></strong>, Ying Zhang, Liqin Ke, Brandt Jensen, X-G Zhang, Matthew J Kramer, Lin Zhou</em><br>
-          <a href="https://d1wqtxts1xzle7.cloudfront.net/67203002/S1431927619000916-libre.pdf?1620282148=&response-content-disposition=inline%3B+filename%3DFormation_and_Relaxation_Dynamics_of_Mag.pdf&Expires=1747387956&Signature=d8ykASLCVq5e8blx3TYnQ0j8RWEqxMM2sc61X2WdRIYY~pkxOuK4j7rqD0EzrE3aBpvsvBQbZJstMtsNqKT5L9KIsasgCzaMya-vlKHE5wUJddaU32u0Ke1XrFaxKkKhmUtJnKkK9oxYddjXtxlejy0Ex4X7lI7RLaL4FT2SNgvOjd6L9KZkpkAlvmpMhtj4ScEceiN820ZMzS7097l-9d-H-3AXmFWlDPrTLOZf46U9bqsZJU0V9~DR2Ie2Gsm01E029QApUztnsPlVxKK9W1~s7zE7uPXPhEgg~743POY5cuGvz8Z4P-CMOvvPVEfa32zGLmDDfBFjUlS-oEJo2A__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA">Microscopy and Microanalysis 25 (S2), 36-37</a>
+          <em>Tae-Hoon Kim, <strong><u>Licong Peng</u></strong>, Ying Zhang, Liqin Ke, Brandt Jensen, X-G Zhang, Matthew J Kramer, Lin Zhou*</em><br>
+          <a href="https://academic.oup.com/mam/article-abstract/25/S2/36/6891605?redirectedFrom=fulltext&login=false">Microscopy and Microanalysis 25 (S2), 36-37</a>
         </li>
         <li>
           <strong>Real-space observation of a transformation from antiskyrmion to skyrmion by Lorentz TEM</strong><br>
-          <em><strong><u>Licong Peng</u></strong>, Rina Takagi, Wataru Koshibae, Kiyou Shibata, Taka-hisa Arima, Naoto Nagaosa, Yoshinori Tokura, Shinichiro Seki, Xiuzhen Yu</em><br>
-          <a href="https://web.archive.org/web/20200311124013id_/https://www.cambridge.org/core/services/aop-cambridge-core/content/view/CA24012622A3868DAD48305710BA14A6/S1431927619009930a.pdf/div-class-title-real-space-observation-of-a-transformation-from-antiskyrmion-to-skyrmion-by-lorentz-tem-div.pdf">Microscopy and Microanalysis 25 (S2), 1840-1841</a>
+          <em><strong><u>Licong Peng*</u></strong>, Rina Takagi, Wataru Koshibae, Kiyou Shibata, Taka-hisa Arima, Naoto Nagaosa, Yoshinori Tokura, Shinichiro Seki, Xiuzhen Yu</em><br>
+          <a href="https://academic.oup.com/mam/article-abstract/25/S2/1840/6892520?redirectedFrom=fulltext">Microscopy and Microanalysis 25 (S2), 1840-1841</a>
         </li>
         <li>
           <strong>Low-field formation of room-temperature biskyrmions in centrosymmetric MnPdGa magnet</strong><br>
