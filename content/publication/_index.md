@@ -237,22 +237,22 @@ sections:
         </li>
         <li>
           <strong>Multiple tuning of magnetic biskyrmions using in situ L-TEM in centrosymmetric MnNiGa alloy</strong><br>
-          <em><strong><u>Licong Peng</u></strong>, Ying Zhang, Min He, Bei Ding, Wenhong Wang, Jianqi Li, Jianwang Cai, Shouguo Wang, Guangheng Wu, Baogen Shen</em><br>
+          <em><strong><u>Licong Peng</u></strong>, Ying Zhang*, Min He, Bei Ding, Wenhong Wang, Jianqi Li, Jianwang Cai, Shouguo Wang, Guangheng Wu, Baogen Shen</em><br>
           <a href="https://iopscience.iop.org/article/10.1088/1361-648X/aaa527/meta">J. Phys.: Condens. Matter 30, 065803</a>
         </li>
         <li>
           <strong>Direct observation of the topological spin configurations mediated by the substitution of rare-earth element Y in MnNiGa alloy</strong><br>
-          <em>SL Zuo, Y Zhang, <strong><u>LC Peng</u></strong>, X Zhao, R Li, H Li, JF Xiong, M He, TY Zhao, JR Sun, FX Hu, BG Shen</em><br>
+          <em>SL Zuo, Y Zhang*, <strong><u>LC Peng</u></strong>, X Zhao, R Li, H Li, JF Xiong, M He, TY Zhao, JR Sun, FX Hu, BG Shen*</em><br>
           <a href="https://pubs.rsc.org/en/content/articlelanding/2018/nr/c7nr08997j/unauth">Nanoscale 10 (5), 2260-2266</a>
         </li>
         <li>
           <strong>Direct observation of the magnetic domain evolution stimulated by temperature and magnetic field in PrMnGeSi alloy</strong><br>
-          <em>Shulan Zuo, Bo , Zhang, Kaiming Qiao, <strong><u>Licong Peng</u></strong>, Rui Li, Jiefu Xiong, Yan Zhang, Xin Zhao, Dan Liu, Tongyun Zhao, Jirong Sun, Fengxia Hu, Ying Zhang, Shen Baogen</em><br>
+          <em>Shulan Zuo, Bo , Zhang, Kaiming Qiao, <strong><u>Licong Peng</u></strong>, Rui Li, Jiefu Xiong, Yan Zhang, Xin Zhao, Dan Liu, Tongyun Zhao, Jirong Sun, Fengxia Hu, Ying Zhang*, Shen Baogen*</em><br>
           <a href="https://pubs.aip.org/aip/adv/article/8/5/056801/1021553">AIP Advances 8, 056801</a>
         </li>
         <li>
           <strong>Realization of zero-field skyrmions with high-density via electromagnetic manipulation in Pt/Co/Ta multilayers</strong><br>
-          <em>Min He, <strong><u>Licong Peng</u></strong>, Zhaozhao Zhu, Gang Li, Jianwang Cai, Jianqi Li, Hongxiang Wei, Lin Gu, Shouguo Wang, Tongyun Zhao, Baogen Shen, Ying Zhang</em><br>
+          <em>Min He, <strong><u>Licong Peng</u></strong>, Zhaozhao Zhu, Gang Li, Jianwang Cai, Jianqi Li, Hongxiang Wei, Lin Gu, Shouguo Wang, Tongyun Zhao, Baogen Shen, Ying Zhang*</em><br>
           <a href="https://pubs.aip.org/aip/apl/article-abstract/111/20/202403/34491/Realization-of-zero-field-skyrmions-with-high?redirectedFrom=fulltext">Applied Physics Letters 111 (20)</a>
         </li>
         <li>
