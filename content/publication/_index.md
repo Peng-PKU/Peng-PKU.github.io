@@ -105,7 +105,7 @@ sections:
         <p style="font-size: 2em; font-weight: bold;">2023</p>
         <li>
           <strong>Efficient current-induced spin torques and field-free magnetization switching in a room-temperature van der Waals magnet</strong><br>
-          <em>Chao Yun, Haoran Guo, Zhongchong Lin, <strong><u>Licong Peng</u></strong>, Zhongyu Liang, Miao Meng, Biao Zhang, Zijing Zhao, Leran Wang, Yifei Ma, Yajing Liu, Weiwei Li, Shuai Ning, Yanglong Hou, Jinbo Yang, Zhaochu Luo</em><br>
+          <em>Chao Yun*#, Haoran Guo#, Zhongchong Lin, <strong><u>Licong Peng</u></strong>, Zhongyu Liang, Miao Meng, Biao Zhang, Zijing Zhao, Leran Wang, Yifei Ma, Yajing Liu, Weiwei Li, Shuai Ning, Yanglong Hou*, Jinbo Yang*, Zhaochu Luo*</em><br>
           <a href="https://www.science.org/doi/full/10.1126/sciadv.adj3955">Science Advances 9 (49), eadj3955</a>
         </li>
         
