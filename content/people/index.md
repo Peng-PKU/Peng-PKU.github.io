@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: Meet the Team
+      title: Members
       subtitle: ''
       text: ''
     design:
