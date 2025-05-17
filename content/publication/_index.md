@@ -29,7 +29,7 @@ sections:
       title: ""
       subtitle: ""
       text: |
-        See more in <a href="https://scholar.google.com/citations?hl=zh-CN&user=xUzcVE4AAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a> and <a href="https://orcid.org/0000-0002-8580-2285">ORCiD</a>
+        See more details in <a href="https://scholar.google.com/citations?hl=zh-CN&user=xUzcVE4AAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a> and <a href="https://orcid.org/0000-0002-8580-2285">ORCiD</a>
         <ol style="font-size: 0.7em;" reversed>
   
         <p style="font-size: 2em; font-weight: bold; margin-top: 0.1em; margin-bottom: 0.1em;">Preprint</p>
