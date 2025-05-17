@@ -212,27 +212,27 @@ sections:
         </li>
         <li>
           <strong>Multi-field control on magnetic skyrmions</strong><br>
-          <em>Dong Bo-Wen, Zhang Jing-Yan, <strong><u>Peng Li-Cong</u></strong>, He Min, Zhang Ying, Zhao Yun-Chi, Wang Chao, Sun Yang, Cai Jian-Wang, Wang Wen-Hong, Wei Hong-Xiang, Shen Bao-Gen, Jiang Yong, Wang Shou-Guo</em><br>
+          <em>Dong Bo-Wen, Zhang Jing-Yan, <strong><u>Peng Li-Cong</u></strong>, He Min, Zhang Ying*, Zhao Yun-Chi, Wang Chao, Sun Yang, Cai Jian-Wang, Wang Wen-Hong, Wei Hong-Xiang, Shen Bao-Gen, Jiang Yong, Wang Shou-Guo*</em><br>
           <a href="https://wulixb.iphy.ac.cn/en/article/doi/10.7498/aps.67.20180931">Acta Physica Sinica 67 (13)</a>
         </li>
         <li>
           <strong>Lorentz transmission electron microscopy studies on topological magnetic domains</strong><br>
-          <em><strong><u>Li-Cong Peng</u></strong>, Ying Zhang, Shu-Lan Zuo, Min He, Jian-Wang Cai, Shou-Guo Wang, Hong-Xiang Wei, Jian-qi Li, Tong-yun Zhao, Bao-gen Shen</em><br>
+          <em><strong><u>Li-Cong Peng</u></strong>, Ying Zhang*, Shu-Lan Zuo, Min He, Jian-Wang Cai, Shou-Guo Wang, Hong-Xiang Wei, Jian-qi Li, Tong-yun Zhao, Bao-gen Shen</em><br>
           <a href="https://iopscience.iop.org/article/10.1088/1674-1056/27/6/066802/meta">Chinese physics B 27 (6), 066802</a>
         </li>
         <li>
           <strong>Magnetic structure of Ho0. 5Y0. 5Mn6Sn6 compound studied by powder neutron diffraction</strong><br>
-          <em>X-Y Li, <strong><u>L-C Peng</u></strong>, L-H He, S-Y Zhang, J-L Yao, Y Zhang, F-W Wang</em><br>
+          <em>X-Y Li, <strong><u>L-C Peng</u></strong>, L-H He, S-Y Zhang, J-L Yao, Y Zhang*, F-W Wang*</em><br>
           <a href="https://pubs.aip.org/aip/jap/article-abstract/123/20/203903/155666/Magnetic-structure-of-Ho0-5Y0-5Mn6Sn6-compound?redirectedFrom=fulltext">Journal of Applied Physics 123 (20)</a>
         </li>
         <li>
           <strong>The indispensable role of the transversal spin fluctuations mechanism in laser-induced demagnetization of Co/Pt multilayers with nanoscale magnetic domains</strong><br>
-          <em>Wei Zhang, Wei He, <strong><u>Li-Cong Peng</u></strong>, Ying Zhang, Jian-Wang Cai, Richard FL Evans, Xiang-Qun Zhang, Zhao-Hua Cheng</em><br>
+          <em>Wei Zhang, Wei He*, <strong><u>Li-Cong Peng</u></strong>, Ying Zhang, Jian-Wang Cai, Richard FL Evans, Xiang-Qun Zhang, Zhao-Hua Cheng*</em><br>
           <a href="https://iopscience.iop.org/article/10.1088/1361-6528/aabdc9/meta">Nanotechnology 29 (27), 275703</a>
         </li>
         <li>
           <strong>Evolution of topological skyrmions across the spin reorientation transition in Pt/Co/Ta multilayers</strong><br>
-          <em>Min He, Gang Li, Zhaozhao Zhu, Ying Zhang, <strong><u>Licong Peng</u></strong>, Rui Li, Jianqi Li, Hongxiang Wei, Tongyun Zhao, X-G Zhang, Shouguo Wang, Shi-Zeng Lin, Lin Gu, Guoqiang Yu, JW Cai, Bao-gen Shen</em><br>
+          <em>Min He, Gang Li, Zhaozhao Zhu, Ying Zhang*, <strong><u>Licong Peng</u></strong>, Rui Li, Jianqi Li, Hongxiang Wei, Tongyun Zhao, X-G Zhang, Shouguo Wang, Shi-Zeng Lin, Lin Gu, Guoqiang Yu, JW Cai*, Bao-gen Shen</em><br>
           <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.97.174419">Physical Review B 97 (17), 174419</a>
         </li>
         <li>
