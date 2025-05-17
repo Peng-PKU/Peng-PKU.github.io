@@ -31,7 +31,7 @@ sections:
       text: |
         <ol style="font-size: 0.7em;" reversed>
   
-        <p style="font-size: 2em; font-weight: bold;">Preprint</p>
+        <p style="font-size: 2em; font-weight: bold; margin-top: 0.1em; margin-bottom: 0.1em;">Preprint</p>
         <li>
           <strong>Tunable Lattice Transition Mediated by Layer-Dependent Interactions in 3D Antiskyrmions</strong><br>
           <em>Shangrun Lu, Yusheng Hou, Jinbo Yang, Yanglong Hou*, <strong><u>Licong Peng*</u></strong></em><br>
@@ -58,7 +58,7 @@ sections:
           <a href="https://arxiv.org/abs/2502.10730">arXiv:2502.10730</a>
         </li>
 
-        <p style="font-size: 2em; font-weight: bold;">2025</p>
+        <p style="font-size: 2em; font-weight: bold; margin-top: 1em; margin-bottom: 0.1em;">2025</p>
     
         <li>
           <strong>Controllable Synthesis of Out-of-Plane Grown Bi₂TeO₅ with High-κ and Anisotropy for High-Performance Field-Effect Transistors</strong><br>
@@ -81,7 +81,7 @@ sections:
           <a href="https://pubs.aip.org/aip/apl/article-abstract/126/2/021906/3331505/Ferromagnetism-and-structural-phase-transition-in?redirectedFrom=fulltext">Applied Physics Letters 126 (2)</a>
         </li>
 
-        <p style="font-size: 2em; font-weight: bold;">2024</p>
+        <p style="font-size: 2em; font-weight: bold; margin-top: 1em; margin-bottom: 0.1em;">2024</p>
         <li>
           <strong>Confined antiskyrmion motion driven by electric current excitations</strong><br>
           <em>Yao Guang*, Xichao Zhang, Yizhou Liu, <strong><u>Licong Peng</u></strong>, Fehmi Sami Yasin, Kosuke Karube, Daisuke Nakamura, Naoto Nagaosa, Yasujiro Taguchi, Masahito Mochizuki, Yoshinori Tokura, Xiuzhen Yu*</em><br>
@@ -103,14 +103,14 @@ sections:
           <a href="https://iopscience.iop.org/article/10.1088/2515-7639/ad2ec4/meta">Journal of Physics: Materials 7 (2), 025009</a>
         </li>
     
-        <p style="font-size: 2em; font-weight: bold;">2023</p>
+        <p style="font-size: 2em; font-weight: bold; margin-top: 1em; margin-bottom: 0.1em;">2023</p>
         <li>
           <strong>Efficient current-induced spin torques and field-free magnetization switching in a room-temperature van der Waals magnet</strong><br>
           <em>Chao Yun*#, Haoran Guo#, Zhongchong Lin, <strong><u>Licong Peng</u></strong>, Zhongyu Liang, Miao Meng, Biao Zhang, Zijing Zhao, Leran Wang, Yifei Ma, Yajing Liu, Weiwei Li, Shuai Ning, Yanglong Hou*, Jinbo Yang*, Zhaochu Luo*</em><br>
           <a href="https://www.science.org/doi/full/10.1126/sciadv.adj3955">Science Advances 9 (49), eadj3955</a>
         </li>
 
-        <p style="font-size: 2em; font-weight: bold;">2022</p>
+        <p style="font-size: 2em; font-weight: bold; margin-top: 1em; margin-bottom: 0.1em;">2022</p>
         <li>
           <strong>Formation and Control of Zero-Field Antiskyrmions in Confining Geometries</strong><br>
           <em><strong><u>Licong Peng*</u></strong>, V. Konstantin Iakoubovskii, Kosuke Karube, Yasujiro Taguchi, Yoshinori Tokura, Xiuzhen Yu*</em><br>
@@ -127,7 +127,7 @@ sections:
           <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202108770">Advanced Materials 34, 2108770</a>
         </li>
     
-        <p style="font-size: 2em; font-weight: bold;">2021</p>
+        <p style="font-size: 2em; font-weight: bold; margin-top: 1em; margin-bottom: 0.1em;">2021</p>
         <li>
           <strong>Dynamic transition of current-driven single-skyrmion motion in a room-temperature chiral-lattice magnet</strong><br>
           <em><strong><u>Licong Peng*</u></strong>, Kosuke Karube, Yasujiro Taguchi, Naoto Nagaosa, Yoshinori Tokura, Xiuzhen Yu*</em><br>
@@ -154,7 +154,7 @@ sections:
           <a href="https://pubs.aip.org/aip/apl/article-abstract/118/1/012103/39831/Heteroepitaxial-growth-of-wide-bandgap-cuprous?redirectedFrom=fulltext">Applied Physics Letters 118 (1)</a>
         </li>
 
-        <p style="font-size: 2em; font-weight: bold;">2020</p>
+        <p style="font-size: 2em; font-weight: bold; margin-top: 1em; margin-bottom: 0.1em;">2020</p>
         <li>
           <strong>Bloch Lines Constituting Antiskyrmions Captured via Differential Phase Contrast</strong><br>
           <em>Fehmi S Yasin*, <strong><u>Licong Peng</u></strong>, Rina Takagi, Naoya Kanazawa, Shinichiro Seki, Yoshinori Tokura, Xiuzhen Yu*</em><br>
@@ -176,7 +176,7 @@ sections:
           <a href="https://www.nature.com/articles/s41565-019-0616-6">Nature Nanotechnology 15 (3), 181-186</a>
         </li>
     
-        <p style="font-size: 2em; font-weight: bold;">2019</p>
+        <p style="font-size: 2em; font-weight: bold; margin-top: 1em; margin-bottom: 0.1em;">2019</p>
         <li>
           <strong>Skyrmion phase and competing magnetic orders on a breathing kagomé lattice</strong><br>
           <em>Max Hirschberger*, Taro Nakajima, Shang Gao, <strong><u>Licong Peng</u></strong>, Akiko Kikkawa, Takashi Kurumaji, Markus Kriener, Yuichi Yamasaki, Hajime Sagayama, Hironori Nakao, Kazuki Ohishi, Kazuhisa Kakurai, Yasujiro Taguchi, Xiuzhen Yu, Taka-hisa Arima, Yoshinori Tokura</em><br>
@@ -188,7 +188,7 @@ sections:
           <a href="https://pubs.aip.org/aip/apl/article-abstract/114/14/142404/4429/Low-field-formation-of-room-temperature?redirectedFrom=fulltext">Applied Physics Letters 114 (14)</a>
         </li>
 
-        <p style="font-size: 2em; font-weight: bold;">2018</p>
+        <p style="font-size: 2em; font-weight: bold; margin-top: 1em; margin-bottom: 0.1em;">2018</p>
         <li>
           <strong>Relaxation dynamics of zero-field skyrmions over a wide temperature range</strong><br>
           <em><strong><u>Licong Peng</u></strong>, Ying Zhang*, Liqin Ke, Tae-Hoon Kim, Qiang Zheng, Jiaqiang Yan, X-G Zhang, Yang Gao, Shouguo Wang, Jianwang Cai, Baogen Shen, Robert J McQueeney, Adam Kaminski, Matthew J Kramer, Lin Zhou*</em><br>
@@ -245,7 +245,7 @@ sections:
           <a href="https://pubs.aip.org/aip/adv/article/8/5/056801/1021553">AIP Advances 8, 056801</a>
         </li>
     
-        <p style="font-size: 2em; font-weight: bold; margin-top: 2em; margin-bottom: 0.3em;">2017</p>
+        <p style="font-size: 2em; font-weight: bold; margin-top: 1em; margin-bottom: 0.1em;">2017</p>
         <li>
           <strong>Realization of zero-field skyrmions with high-density via electromagnetic manipulation in Pt/Co/Ta multilayers</strong><br>
           <em>Min He, <strong><u>Licong Peng</u></strong>, Zhaozhao Zhu, Gang Li, Jianwang Cai, Jianqi Li, Hongxiang Wei, Lin Gu, Shouguo Wang, Tongyun Zhao, Baogen Shen, Ying Zhang*</em><br>
@@ -272,7 +272,7 @@ sections:
           <a href="https://pubs.rsc.org/en/content/articlelanding/2017/nr/c7nr03162a/unauth">Nanoscale 9, 13214-13221</a>
         </li>
     
-        <p style="font-size: 2em; font-weight: bold; margin-top: 2em; margin-bottom: 0.3em;">2016</p>
+        <p style="font-size: 2em; font-weight: bold; margin-top: 1em; margin-bottom: 0.1em;">2016</p>
         <li>
           <strong>Magnetization process of nanocrystalline mischmetal-Fe-B ribbons</strong><br>
           <em>Ming Zhang, Yao Liu, Zhubai Li, <strong><u>Licong Peng</u></strong>, Baogen Shen*, Fengxia Hu, Jirong Sun</em><br>
@@ -294,7 +294,7 @@ sections:
           <a href="https://pubs.acs.org/doi/abs/10.1021/jacs.5b12788">Journal of the American Chemical Society 138 (4), 1158-1161</a>
         </li>
 
-        <p style="font-size: 2em; font-weight: bold; margin-top: 2em; margin-bottom: 0.3em;">2015</p>
+        <p style="font-size: 2em; font-weight: bold; margin-top: 1em; margin-bottom: 0.1em;">2015</p>
         <li>
           <strong>Metal-Insulator Transition Induced by Oxygen Vacancies from Electrochemical Reaction in Ionic Liquid-Gated Manganite Films</strong><br>
           <em>Chen Ge*, Kui-Juan Jin*, Lin Gu*, <strong><u>Li-Cong Peng</u></strong>, Yong-Sheng Hu, Hai-Zhong Guo, Hong-Fei Shi, Jian-Kun Li, Jia-Ou Wang, Xiang-Xin Guo, Can Wang, Meng He, Hui-Bin Lu, Guo-Zhen Yang</em><br>
