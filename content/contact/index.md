@@ -28,10 +28,10 @@ sections:
     content:
       title: Null
       text: |-
-        Our group recruits undergraduate students, Ph.D. students, and postdoctoral researchers every year. Interested candidates are welcome to get in touch!
+        We welcome applications from motivated undergraduate students, Ph.D. candidates, and postdoctoral researchers. Feel free to reach out if you're interested.
       email: licong.peng@pku.edu.cn
       address:
-        street: No.5 Yiheyuan Road, Haidian District
+        street: Peking University, No.5 Yiheyuan Road, Haidian District
         city: Beijing
         region: CN
         postcode: '100871'
