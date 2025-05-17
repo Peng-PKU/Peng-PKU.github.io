@@ -271,7 +271,7 @@ sections:
         <li>
           <strong>Magnetization process of nanocrystalline mischmetal-Fe-B ribbons</strong><br>
           <em>Ming Zhang, Yao Liu, Zhubai Li, <strong><u>Licong Peng</u></strong>, Baogen Shen*, Fengxia Hu, Jirong Sun</em><br>
-          <a href="https://www.sciencedirect.com/science/article/abs/pii/S0925838816321314">Journal of Alloys and Compounds 688, 1053-1057</a>
+          <a href="https://www.sciencedirect.com/science/article/abs/pii/S0925838816321314">Journal of Alloys and Compounds 688, 1053-1057, 2016</a>
         </li>
         <li>
           <strong>Superconducting resonators based on TiN/tapering/NbN/tapering/TiN heterostructures</strong><br>
