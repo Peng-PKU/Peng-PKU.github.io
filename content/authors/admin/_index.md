@@ -11,7 +11,7 @@ sort_order: 1  # 小的排前面
 superuser: false
 
 # Role/position
-role: Assistant Professor, Researcher
+role: Assistant Professor, PI
 
 # Organizations/Affiliations
 organizations:
@@ -22,11 +22,11 @@ organizations:
 bio: My research interests include topological spin textures, skyrmion electronics and micromagnetic simulations.
 
 interests:
-  - Lorentz Transmission Electron Microscopy
-  - Skyrmion Electronics
-  - Micromagnetic Simulations
-  - Spintronic Devices
-  - Topological Magnetic Materials
+  - In-situ Lorentz TEM
+  - Topological magnetic textures
+  - Micromagnetic simulations
+  - Spintronic devices
+  - Topological magnetic materials
 
 education:
   courses:
