@@ -111,7 +111,7 @@ sections:
           <a href="https://www.science.org/doi/full/10.1126/sciadv.adj3955">Science Advances 9 (49), eadj3955, 2023</a>
         </li>
 
-        <p style="font-size: 2em; font-weight: bold; margin-top: 1em; margin-bottom: 0.1em;">Before 2022</p>
+        <p style="font-size: 2em; font-weight: bold; margin-top: 1em; margin-bottom: 0.1em;">Before 2023</p>
         <li>
           <strong>Formation and Control of Zero-Field Antiskyrmions in Confining Geometries</strong><br>
           <em><strong><u>Licong Peng*</u></strong>, V. Konstantin Iakoubovskii, Kosuke Karube, Yasujiro Taguchi, Yoshinori Tokura, Xiuzhen Yu*</em><br>
