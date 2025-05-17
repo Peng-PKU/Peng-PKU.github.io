@@ -63,7 +63,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Ph.D. Candidates
 ---
 
 [Shangrun Lu](https://shangrunlu666.github.io/) is a PhD student at the School of Materials Science and Engineering, Peking University. His research focuses on magnetic skyrmions, including first-principles calculations, micromagnetic simulations, and Lorentz transmission electron microscopy, aiming to advance the development of magnetic materials.
