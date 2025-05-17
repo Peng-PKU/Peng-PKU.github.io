@@ -282,22 +282,22 @@ sections:
         </li>
         <li>
           <strong>Superconducting resonators based on TiN/tapering/NbN/tapering/TiN heterostructures</strong><br>
-          <em>Yong‐Chao Tang, Hui Zhang, Sangil Kwon, Hamid R Mohebbi, David G Cory, <strong><u>Li-Cong Peng</u></strong>, Lin Gu, Hai‐Zhong Guo, Kui‐Juan Jin, Guo‐Xing Miao</em><br>
+          <em>Yong‐Chao Tang*, Hui Zhang, Sangil Kwon, Hamid R Mohebbi, David G Cory, <strong><u>Li-Cong Peng</u></strong>, Lin Gu, Hai‐Zhong Guo, Kui‐Juan Jin, Guo‐Xing Miao</em><br>
           <a href="https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adem.201600226">Advanced Engineering Materials 18 (10), 1816-1822</a>
         </li>
         <li>
           <strong>A centrosymmetric hexagonal magnet with superstable biskyrmion magnetic nanodomains in a wide temperature range of 100K to 340K</strong><br>
-          <em>Wenhong Wang, Ying Zhang, Guizhou Xu, <strong><u>Licong Peng</u></strong>, Bei Ding, Yue Wang, Zhipeng Hou, Xiaoming Zhang, Xiyang Li, Enke Liu, Shouguo Wang, Jianwang Cai, Fangwei Wang, Jianqi Li, Fengxia Hu, Guangheng Wu, Baogen Shen, Xi-Xiang Zhang</em><br>
+          <em>Wenhong Wang*, Ying Zhang*, Guizhou Xu, <strong><u>Licong Peng</u></strong>, Bei Ding, Yue Wang, Zhipeng Hou, Xiaoming Zhang, Xiyang Li, Enke Liu, Shouguo Wang, Jianwang Cai, Fangwei Wang, Jianqi Li, Fengxia Hu, Guangheng Wu, Baogen Shen, Xi-Xiang Zhang</em><br>
           <a href="https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adma.201600889">Advanced Materials 328, 6887</a>
         </li>
         <li>
           <strong>Tuning of Photoluminescence by Cation Nanosegregation in the (CaMg)x(NaSc)1–xSi2O6 Solid Solution</strong><br>
-          <em>Zhiguo Xia, Guokui Liu, Jianguo Wen, Zhigang Mei, Mahalingam Balasubramanian, Maxim S Molokeev, <strong><u>Licong Peng</u></strong>, Lin Gu, Dean J Miller, Quanlin Liu, Kenneth R Poeppelmeier</em><br>
+          <em>Zhiguo Xia*, Guokui Liu*, Jianguo Wen, Zhigang Mei, Mahalingam Balasubramanian, Maxim S Molokeev, <strong><u>Licong Peng</u></strong>, Lin Gu, Dean J Miller, Quanlin Liu, Kenneth R Poeppelmeier*</em><br>
           <a href="https://pubs.acs.org/doi/abs/10.1021/jacs.5b12788">Journal of the American Chemical Society 138 (4), 1158-1161</a>
         </li>
         <li>
           <strong>Metal-Insulator Transition Induced by Oxygen Vacancies from Electrochemical Reaction in Ionic Liquid-Gated Manganite Films</strong><br>
-          <em>Chen Ge, Kui-Juan Jin, Lin Gu, <strong><u>Li-Cong Peng</u></strong>, Yong-Sheng Hu, Hai-Zhong Guo, Hong-Fei Shi, Jian-Kun Li, Jia-Ou Wang, Xiang-Xin Guo, Can Wang, Meng He, Hui-Bin Lu, Guo-Zhen Yang</em><br>
+          <em>Chen Ge*, Kui-Juan Jin*, Lin Gu*, <strong><u>Li-Cong Peng</u></strong>, Yong-Sheng Hu, Hai-Zhong Guo, Hong-Fei Shi, Jian-Kun Li, Jia-Ou Wang, Xiang-Xin Guo, Can Wang, Meng He, Hui-Bin Lu, Guo-Zhen Yang</em><br>
           <a href="https://l03.iphy.ac.cn/l03/papers/2015/2015-Advanced_Materials_Interfaces.pdf">Advanced Materials Interfaces 2 (17)</a>
         </li>
         </ol>
