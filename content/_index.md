@@ -31,7 +31,6 @@ sections:
       image:
         filename: welcome.jpg
       text: |
-        <br>
         
         <span style="font-size: 0.85em;">**We investigate topological magnetism and novel spin textures**, focusing on the creation, manipulation, and dynamics of skyrmion and antiskyrmion structures under external stimuli. Our research integrates in situ L-TEM, 3D electron tomography, 4D-STEM, and micromagnetic simulations to reconstruct spin textures and uncover their underlying mechanisms. Our goal is to advance the fundamental understanding of emergent topological states and their field-driven phase transitions toward future spintronic applications.</span>
 
