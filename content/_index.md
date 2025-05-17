@@ -33,21 +33,22 @@ sections:
       text: |
         <br>
         
-        <span style="font-size: 0.85em;">**We investigates topological magnetism and spintronic device.** Using Lorentz transmission electron microscopy (LTEM), we study real-space spin textures—such as skyrmions, antiskyrmions, and magnetic monopoles—their formation mechanisms, and spin dynamics under electric, thermal, mechanical, and microwave stimuli, complemented by real-time magnetotransport measurements. We further explore their application in spintronic devices.</span>
+        <span style="font-size: 0.85em;">**We investigate topological magnetism and novel spin textures, focusing on the creation, control, and dynamics of skyrmions, antiskyrmions, and monopole-like structures under external stimuli. We are particularly interested in the three-dimensional reconstruction and mechanism of spin and lattice configurations, using in situ Lorentz TEM, electron tomography, and 4D-STEM, combined with micromagnetic simulations. Our goal is to advance the understanding of topological phase transitions and enable reconfigurable spintronic device concepts.</span>
 
   - block: markdown
     content:
       title: Current Research Topics
       subtitle: ''
       text: |
-        Among other directions, we are offering projects on the following topics to interested students and post-doctoral researchers:
+        We are offering projects on the following topics to interested students and post-doctoral researchers:
     
         <ol>
-          <li>Skyrmions</li>
-          <li>Spintronic devices</li>
-          <li>Lorentz transmission electron microscopy</li>
-          <li>Micromagnetic simulations</li>
-          <li>Topological magnetic materials, 2D materials, nanomaterials, heterostructure thin films, superconducting materials</li>
+          <li>Topological Spin Textures</li>
+          <li>In Situ L-TEM Control of Topological Magnetism</li>
+          <li>Reconfigurable Spintronic functionalities</li>
+          <li>3D Magnetism Tomography and 4D-STEM</li>
+          <li>Multiscale Magnetic Modeling</li>
+          <li>Topological Magnetic Materials,2D Magnetic Materials</li>
         </ol>
     
         <p>Contact us to learn more!</p>
