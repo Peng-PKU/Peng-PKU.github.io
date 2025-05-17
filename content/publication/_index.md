@@ -192,22 +192,22 @@ sections:
         </li>
         <li>
           <strong>Low-field formation of room-temperature biskyrmions in centrosymmetric MnPdGa magnet</strong><br>
-          <em>Xiaofei Xiao, <strong><u>Licong Peng</u></strong>, Xinguo Zhao, Ying Zhang, Yingying Dai, Jie Guo, Min Tong, Ji Li, Bing Li, Wei Liu, Jianwang Cai, Baogen Shen, Zhidong Zhang</em><br>
+          <em>Xiaofei Xiao, <strong><u>Licong Peng</u></strong>, Xinguo Zhao*, Ying Zhang*, Yingying Dai, Jie Guo, Min Tong, Ji Li, Bing Li, Wei Liu, Jianwang Cai, Baogen Shen, Zhidong Zhang</em><br>
           <a href="https://pubs.aip.org/aip/apl/article-abstract/114/14/142404/4429/Low-field-formation-of-room-temperature?redirectedFrom=fulltext">Applied Physics Letters 114 (14)</a>
         </li>
         <li>
           <strong>Relaxation dynamics of zero-field skyrmions over a wide temperature range</strong><br>
-          <em><strong><u>Licong Peng</u></strong>, Ying Zhang, Liqin Ke, Tae-Hoon Kim, Qiang Zheng, Jiaqiang Yan, X-G Zhang, Yang Gao, Shouguo Wang, Jianwang Cai, Baogen Shen, Robert J McQueeney, Adam Kaminski, Matthew J Kramer, Lin Zhou</em><br>
+          <em><strong><u>Licong Peng</u></strong>, Ying Zhang*, Liqin Ke, Tae-Hoon Kim, Qiang Zheng, Jiaqiang Yan, X-G Zhang, Yang Gao, Shouguo Wang, Jianwang Cai, Baogen Shen, Robert J McQueeney, Adam Kaminski, Matthew J Kramer, Lin Zhou*</em><br>
           <a href="https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.8b03553">Nano letters 18 (12), 7777-7783</a>
         </li>
         <li>
           <strong>Spontaneous nanometric magnetic bubbles with various topologies in spin-reoriented La1− xSrxMnO3</strong><br>
-          <em><strong><u>Licong Peng</u></strong>, Ying Zhang, Deshun Hong, Bo Zhang, Jianqi Li, Jianwang Cai, Shouguo Wang, Jirong Sun, Baogen Shen</em><br>
+          <em><strong><u>Licong Peng</u></strong>, Ying Zhang*, Deshun Hong, Bo Zhang, Jianqi Li, Jianwang Cai, Shouguo Wang, Jirong Sun, Baogen Shen</em><br>
           <a href="https://pubs.aip.org/aip/apl/article-abstract/113/14/142408/903774/Spontaneous-nanometric-magnetic-bubbles-with?redirectedFrom=fulltext">Applied Physics Letters 113 (14), 142408</a>
         </li>
         <li>
           <strong>Zero-field skyrmions generated via premartensitic transition in N⁢i50⁢M⁢n35.2⁢I⁢n14.8 alloy</strong><br>
-          <em>Shulan Zuo, Feixiang Liang, Ying Zhang, <strong><u>Licong Peng</u></strong>, Jiefu Xiong, Yao Liu, Rui Li, Tongyun Zhao, Jirong Sun, Fengxia Hu, Baogen Shen</em><br>
+          <em>Shulan Zuo, Feixiang Liang, Ying Zhang*, <strong><u>Licong Peng</u></strong>, Jiefu Xiong, Yao Liu, Rui Li, Tongyun Zhao, Jirong Sun, Fengxia Hu, Baogen Shen*</em><br>
           <a href="https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.2.104408">Physical Review Materials 2 (10), 104408</a>
         </li>
         <li>
