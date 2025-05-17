@@ -39,7 +39,7 @@ sections:
       user_groups:
           - Principal Investigator
           - Postdoctoral Researcher
-          - Ph.D. candidates
+          - Ph.D. Candidates
           - Administration
           - Visitors
           - Alumni
