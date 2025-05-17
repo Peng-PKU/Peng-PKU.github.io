@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: WELCOME TO PENG-PKU Lab
+      title: WELCOME TO Peng-PKU Lab
       subtitle: ''
       text: ''
     design:
@@ -33,7 +33,7 @@ sections:
       text: |
         <br>
         
-        <span style="font-size: 0.85em;">**We investigate topological magnetism and novel spin textures, focusing on the creation, control, and dynamics of skyrmions, antiskyrmions, and monopole-like structures under external stimuli. We are particularly interested in the three-dimensional reconstruction and mechanism of spin and lattice configurations, using in situ Lorentz TEM, electron tomography, and 4D-STEM, combined with micromagnetic simulations. Our goal is to advance the understanding of topological phase transitions and enable reconfigurable spintronic device concepts.</span>
+        <span style="font-size: 0.85em;">We investigate topological magnetism and novel spin textures, focusing on the creation, control, and dynamics of skyrmions, antiskyrmions, and monopole-like structures under external stimuli. We are particularly interested in the three-dimensional reconstruction and mechanism of spin and lattice configurations, using in situ Lorentz TEM, electron tomography, and 4D-STEM, combined with micromagnetic simulations. Our goal is to advance the understanding of topological phase transitions and enable reconfigurable spintronic device concepts.</span>
 
   - block: markdown
     content:
