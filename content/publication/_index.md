@@ -83,22 +83,22 @@ sections:
         <p style="font-size: 2em; font-weight: bold;">2024</p>
         <li>
           <strong>Confined antiskyrmion motion driven by electric current excitations</strong><br>
-          <em>Yao Guang, Xichao Zhang, Yizhou Liu, <strong><u>Licong Peng</u></strong>, Fehmi Sami Yasin, Kosuke Karube, Daisuke Nakamura, Naoto Nagaosa, Yasujiro Taguchi, Masahito Mochizuki, Yoshinori Tokura, Xiuzhen Yu</em><br>
+          <em>Yao Guang*, Xichao Zhang, Yizhou Liu, <strong><u>Licong Peng</u></strong>, Fehmi Sami Yasin, Kosuke Karube, Daisuke Nakamura, Naoto Nagaosa, Yasujiro Taguchi, Masahito Mochizuki, Yoshinori Tokura, Xiuzhen Yu*</em><br>
           <a href="https://www.nature.com/articles/s41467-024-52072-4">Nature Communications 15 (1), 7701</a>
         </li>
         <li>
           <strong>Harnessing Interlayer Magnetic Coupling for Efficient, Field‐Free Current‐Induced Magnetization Switching in a Magnetic Insulator</strong><br>
-          <em>Leran Wang, Alejandro O Leon, Wenqing He, Zhongyu Liang, Xiaohan Li, Xiaoxiao Fang, Wenyun Yang, <strong><u>Licong Peng</u></strong>, Jinbo Yang, Caihua Wan, Gerrit EW Bauer, Zhaochu Luo</em><br>
+          <em>Leran Wang, Alejandro O Leon*, Wenqing He, Zhongyu Liang, Xiaohan Li, Xiaoxiao Fang, Wenyun Yang, <strong><u>Licong Peng</u></strong>, Jinbo Yang*, Caihua Wan, Gerrit EW Bauer, Zhaochu Luo*</em><br>
           <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/sstr.202400006">Small Structures 5 (7), 2400006</a>
         </li>
         <li>
           <strong>Enhanced emergent electromagnetic inductance in Tb5Sb3 due to highly disordered helimagnetism</strong><br>
-          <em>Aki Kitaori, Jonathan S White, Victor Ukleev, <strong><u>Licong Peng</u></strong>, Kiyomi Nakajima, Naoya Kanazawa, Xiuzhen Yu, Yoshichika Ōnuki, Yoshinori Tokura</em><br>
+          <em>Aki Kitaori*, Jonathan S White, Victor Ukleev, <strong><u>Licong Peng</u></strong>, Kiyomi Nakajima, Naoya Kanazawa*, Xiuzhen Yu, Yoshichika Ōnuki, Yoshinori Tokura*</em><br>
           <a href="https://www.nature.com/articles/s42005-024-01656-z">Communications Physics 7 (1), 159</a>
         </li>
         <li>
           <strong>Topological stability of spin textures in Si/Co-doped helimagnet FeGe</strong><br>
-          <em>Yao Guang, Yukako Fujishiro, Aito Tanaka, <strong><u>Licong Peng</u></strong>, Yoshio Kaneko, Naoya Kanazawa, Yoshinori Tokura, Xiuzhen Yu</em><br>
+          <em>Yao Guang*, Yukako Fujishiro, Aito Tanaka, <strong><u>Licong Peng</u></strong>, Yoshio Kaneko, Naoya Kanazawa, Yoshinori Tokura, Xiuzhen Yu*</em><br>
           <a href="https://iopscience.iop.org/article/10.1088/2515-7639/ad2ec4/meta">Journal of Physics: Materials 7 (2), 025009</a>
         </li>
     
