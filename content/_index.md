@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: WELCOME TO PENG GROUP
+      title: WELCOME TO PENG-PKU Lab
       subtitle: ''
       text: ''
     design:
@@ -43,7 +43,7 @@ sections:
         Among other directions, we are offering projects on the following topics to interested students and post-doctoral researchers:
     
         <ol>
-          <li>Skyrmion electronics</li>
+          <li>Skyrmions</li>
           <li>Spintronic devices</li>
           <li>Lorentz transmission electron microscopy</li>
           <li>Micromagnetic simulations</li>
