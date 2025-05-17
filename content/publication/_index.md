@@ -29,6 +29,7 @@ sections:
       title: ""
       subtitle: ""
       text: |
+        [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=xUzcVE4AAAAJ&view_op=list_works&sortby=pubdate)
         <ol style="font-size: 0.7em;" reversed>
   
         <p style="font-size: 2em; font-weight: bold; margin-top: 0.1em; margin-bottom: 0.1em;">Preprint</p>
