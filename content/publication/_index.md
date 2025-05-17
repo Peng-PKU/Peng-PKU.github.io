@@ -257,27 +257,27 @@ sections:
         </li>
         <li>
           <strong>In situ observation of magnetic vortex manipulation by external fields in amorphous CeFeB ribbon</strong><br>
-          <em>Shulan Zuo, Ming Zhang, Rui Li, Ying Zhang, <strong><u>Licong Peng</u></strong>, Jiefu Xiong, Dan Liu, Tongyun Zhao, Fengxia Hu, Baogen Shen, Jirong Sun</em><br>
+          <em>Shulan Zuo, Ming Zhang, Rui Li, Ying Zhang*, <strong><u>Licong Peng</u></strong>, Jiefu Xiong, Dan Liu, Tongyun Zhao, Fengxia Hu, Baogen Shen*, Jirong Sun</em><br>
           <a href="https://www.sciencedirect.com/science/article/abs/pii/S1359645417306353">Acta Materialia 140, 465-471</a>
         </li>
         <li>
           <strong>Real-space observation of nonvolatile zero-field biskyrmion lattice generation in MnNiGa magnet</strong><br>
-          <em><strong><u>Licong Peng</u></strong>, Ying Zhang, Wenhong Wang, Min He, Lailai Li, Bei Ding, Jianqi Li, Young Sun, X-G Zhang, Jianwang Cai, Shouguo Wang, Guangheng Wu, Baogen Shen</em><br>
+          <em><strong><u>Licong Peng</u></strong>, Ying Zhang*, Wenhong Wang, Min He, Lailai Li, Bei Ding, Jianqi Li, Young Sun*, X-G Zhang, Jianwang Cai, Shouguo Wang, Guangheng Wu, Baogen Shen</em><br>
           <a href="https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.7b03792">Nano Letters 17 (11), 7075-7079</a>
         </li>
         <li>
           <strong>Generation of high-density biskyrmions by electric current</strong><br>
-          <em><strong><u>Licong Peng</u></strong>, Ying Zhang, Min He, Bei Ding, Wenhong Wang, Huanfang Tian, Jianqi Li, Shouguo Wang, Jianwang Cai, Guangheng Wu, J Ping Liu, Matthew J Kramer, Bao-gen Shen</em><br>
+          <em><strong><u>Licong Peng</u></strong>, Ying Zhang*, Min He, Bei Ding, Wenhong Wang*, Huanfang Tian, Jianqi Li, Shouguo Wang, Jianwang Cai, Guangheng Wu, J Ping Liu, Matthew J Kramer, Bao-gen Shen</em><br>
           <a href="https://www.nature.com/articles/s41535-017-0034-7">npj Quantum Materials 2 (1), 30</a>
         </li>
         <li>
           <strong>Oxygen defect engineering by the current effect assisted with temperature cycling in a perovskite- type La0.7Sr0.3CoO3 film</strong><br>
-          <em>J. Li, J. Wang, H. Kuang, H. R. Zhang, Y. Y. Zhao, K. M. Qiao, F. Wang, W. Liu, W. Wang, <strong><u>L. C. Peng</u></strong>, Y. Zhang, R. C. Yu, F. X. Hu, J. R. Sun, B. G. Shen</em><br>
+          <em>J. Li, J. Wang, H. Kuang, H. R. Zhang, Y. Y. Zhao, K. M. Qiao, F. Wang, W. Liu, W. Wang, <strong><u>L. C. Peng</u></strong>, Y. Zhang, R. C. Yu, F. X. Hu*, J. R. Sun, B. G. Shen</em><br>
           <a href="https://pubs.rsc.org/en/content/articlelanding/2017/nr/c7nr03162a/unauth">Nanoscale 9, 13214-13221</a>
         </li>
         <li>
           <strong>Magnetization process of nanocrystalline mischmetal-Fe-B ribbons</strong><br>
-          <em>Ming Zhang, Yao Liu, Zhubai Li, <strong><u>Licong Peng</u></strong>, Baogen Shen, Fengxia Hu, Jirong Sun</em><br>
+          <em>Ming Zhang, Yao Liu, Zhubai Li, <strong><u>Licong Peng</u></strong>, Baogen Shen*, Fengxia Hu, Jirong Sun</em><br>
           <a href="https://www.sciencedirect.com/science/article/abs/pii/S0925838816321314">Journal of Alloys and Compounds 688, 1053-1057</a>
         </li>
         <li>
