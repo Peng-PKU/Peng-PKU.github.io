@@ -39,11 +39,6 @@ sections:
           <strong>Under Review</strong>
         </li>
         <li>
-          <strong>Spontaneous Topological Hall Effect in Intercalated Co1/3TaS2 Nanoflakes with Non-Coplanar Antiferromagnetic Order</strong><br>
-          <em>Ziyu Meng, Weiguang Lin, Zijing Zhao, Biao Zhang, Baling Li, Yucheng Lv, Guanghui Han, Shibo Li, Yanzhen Cai, Feng Jin, Ye Zhang, Dongdong Xiao, Teng Yang, <strong><u>Licong Peng*</u></strong>, Yanglong Hou*</u></strong></em><br>
-          <strong>Advanced Functional Materials, Under Press</strong>
-        </li>
-        <li>
           <strong>Reconfigurable Room Temperature Exchange Bias through Néel Order Switching in van der Waals Heterostructures</strong><br>
           <em>Jicheng Wang, Shilei Ding*, Bei Ding, Zhipeng Hou*, <strong><u>Licong Peng</u></strong>, Yilan Jiang, Fengshan Zheng, Zhaochu Luo*, Yu Ye, Jinbo Yang, Yanglong Hou*, Rui Wu*</em><br>
           <a href="https://arxiv.org/abs/2505.04455">arXiv:2505.04455</a>
@@ -60,11 +55,15 @@ sections:
         </li>
 
         <p style="font-size: 2em; font-weight: bold; margin-top: 1em; margin-bottom: 0.1em;">2025</p>
-    
+        <li>
+          <strong>Spontaneous Topological Hall Effect in Intercalated Co1/3TaS2 Nanoflakes with Non-Coplanar Antiferromagnetic Order</strong><br>
+          <em>Ziyu Meng, Weiguang Lin, Zijing Zhao, Biao Zhang, Baling Li, Yucheng Lv, Guanghui Han, Shibo Li, Yanzhen Cai, Feng Jin, Ye Zhang, Dongdong Xiao, Teng Yang, <strong><u>Licong Peng*</u></strong>, Yanglong Hou*</u></strong></em><br>
+          <a href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/adfm.202502016?af=R">Advanced Functional Materials, 2502016, 2025</a>
+        </li>
         <li>
           <strong>Controllable Synthesis of Out-of-Plane Grown Bi₂TeO₅ with High-κ and Anisotropy for High-Performance Field-Effect Transistors</strong><br>
           <em>Shibo Li, Biao Zhang, Xiaoting Tian, Zijing Zhao, Bailing Li, Zeeshan Ali, Ziyu Meng, Wanting Zhao, <strong><u>Licong Peng*</u></strong>, Yanglong Hou*</em><br>
-          <a href="https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.5c01677">Nano Letters, 2025</a>
+          <a href="https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.5c01677">Nano Letters, 25, 8390−8398, 2025</a>
         </li>
         <li>
           <strong>In-situ L-TEM observations of dynamics of nanometric skyrmions and antiskyrmions</strong><br>
