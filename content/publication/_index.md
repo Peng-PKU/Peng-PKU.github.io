@@ -35,13 +35,18 @@ sections:
         <p style="font-size: 2em; font-weight: bold; margin-top: 0.1em; margin-bottom: 0.1em;">Preprint</p>
         <li>
           <strong>Helicity-dependent ellipticity and interstitial vortices in confined anisotropic skyrmions</strong><br>
-          <em>Shangrun Lu, Qingfa Luo, Yizhou Liu, Shaohua Fan, Haoting Lu, Jiajia Liu, Guanghui Han, Xiaoting Tian, Fanqi Meng, Zhaochu Luo, Jinbo Yang, Yanglong Hou*, <strong><u>Licong Peng*</u></strong></em><br>
+          <em>Shangrun Lu#, Qingfa Luo#, Yizhou Liu, Shaohua Fan, Haoting Lu, Jiajia Liu, Guanghui Han, Xiaoting Tian, Fanqi Meng, Zhaochu Luo, Jinbo Yang, Yanglong Hou*, <strong><u>Licong Peng*</u></strong></em><br>
           <strong>Under Review</strong>
         </li>    
         <li>
           <strong>Interaction between Three-Dimensional Topological Spin Textures with Layer-Dependent Sign Change Tunes Lattice Symmetry</strong><br>
           <em>Shangrun Lu, Yusheng Hou, Jan Masell, Xichao Zhang, Qingfa Luo, Shaohua Fan, Wenkun Zhao, Zhaochu Luo, Jinbo Yang, Yanglong Hou*, <strong><u>Licong Peng*</u></strong></em><br>
           <strong>Under Review</strong>
+        </li>
+        <li>
+          <strong>Diamond-based sensing of stray fields from the bulk of thin-film magnets via nano-indentation</strong><br>
+          <em>Ming-Zhong Ai, Kang-Yuan Liu, Biao Zhang, Weng-Hang Leong, Yao Gao, Yue Cui, Guoli Zhu, Licong Peng, Yanglong Hou*, Quan Li*, Ren-Bao Liu*</em><br>
+          <a href="https://arxiv.org/abs/2511.10176">arXiv:2511.10176</a>
         </li>
         <li>
           <strong>Semiconducting behaviors at epitaxial Ca0. 5TaO3 interfaces</strong><br>
@@ -52,7 +57,7 @@ sections:
         <p style="font-size: 2em; font-weight: bold; margin-top: 1em; margin-bottom: 0.1em;">2026</p>
         <li>
           <strong>Dynamically resolved evolution and quantitative mapping of conformal skyrmion lattice</strong><br>
-          <em>Wenkun Zhao, Shangrun Lu, Qingfa Luo, Xichao Zhang, Shaohua Fan, Haoting Lu, Guanghui Han, Tianyu Xin, Zhaochu Luo, Guoping Zhao*, Jinbo Yang*, Yanglong Hou* and <strong><u>Licong Peng*</u></strong></em><br>
+          <em>Wenkun Zhao#, Shangrun Lu#, Qingfa Luo, Xichao Zhang, Shaohua Fan, Haoting Lu, Guanghui Han, Tianyu Xin, Zhaochu Luo, Guoping Zhao*, Jinbo Yang*, Yanglong Hou* and <strong><u>Licong Peng*</u></strong></em><br>
           <a href="https://www.cell.com/newton/fulltext/S2950-6360(26)00045-9">Newton, 2, 100443, 2026</a>
         </li>
     
