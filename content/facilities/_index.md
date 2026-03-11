@@ -40,7 +40,7 @@ sections:
       title: |
         JEM-F200
       image:
-        filename: F200.jpg
+        filename: f200.jpg
       text: |
         <br>
         
