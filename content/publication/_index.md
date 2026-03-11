@@ -50,7 +50,7 @@ sections:
         </li>
         <li>
           <strong>Diamond-based sensing of stray fields from the bulk of thin-film magnets via nano-indentation</strong><br>
-          <em>Ming-Zhong Ai, Kang-Yuan Liu, Biao Zhang, Weng-Hang Leong, Yao Gao, Yue Cui, Guoli Zhu, Licong Peng, Yanglong Hou*, Quan Li*, Ren-Bao Liu*</em><br>
+          <em>Ming-Zhong Ai, Kang-Yuan Liu, Biao Zhang, Weng-Hang Leong, Yao Gao, Yue Cui, Guoli Zhu, <strong><u>Licong Peng</u></strong>, Yanglong Hou*, Quan Li*, Ren-Bao Liu*</em><br>
           <a href="https://arxiv.org/abs/2511.10176">arXiv:2511.10176</a>
         </li>
         <li>
