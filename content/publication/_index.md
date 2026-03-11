@@ -34,21 +34,6 @@ sections:
   
         <p style="font-size: 2em; font-weight: bold; margin-top: 0.1em; margin-bottom: 0.1em;">Preprint</p>
         <li>
-          <strong>Helicity-dependent ellipticity and interstitial vortices in confined anisotropic skyrmions</strong><br>
-          <em>Shangrun Lu#, Qingfa Luo#, Yizhou Liu, Shaohua Fan, Haoting Lu, Jiajia Liu, Guanghui Han, Xiaoting Tian, Fanqi Meng, Zhaochu Luo, Jinbo Yang, Yanglong Hou*, <strong><u>Licong Peng*</u></strong></em><br>
-          <strong>Under Review</strong>
-        </li>
-        <li>
-          <strong>Deformation-assisted skyrmion formation and reorganization under pulsed currents</strong><br>
-          <em>Guanghui Han#, Wenkun Zhao#, Shaohua Fan#, Qingfa Luoa, Shangrun Lu, Xiaoting Tian, Jinbo Yang*, Yanglong Hou*, <strong><u>Licong Peng*</u></strong></em><br>
-          <strong>Under Review</strong>
-        </li>
-        <li>
-          <strong>Interaction between Three-Dimensional Topological Spin Textures with Layer-Dependent Sign Change Tunes Lattice Symmetry</strong><br>
-          <em>Shangrun Lu, Yusheng Hou, Jan Masell, Xichao Zhang, Qingfa Luo, Shaohua Fan, Wenkun Zhao, Zhaochu Luo, Jinbo Yang, Yanglong Hou*, <strong><u>Licong Peng*</u></strong></em><br>
-          <strong>Under Review</strong>
-        </li>
-        <li>
           <strong>Diamond-based sensing of stray fields from the bulk of thin-film magnets via nano-indentation</strong><br>
           <em>Ming-Zhong Ai, Kang-Yuan Liu, Biao Zhang, Weng-Hang Leong, Yao Gao, Yue Cui, Guoli Zhu, <strong><u>Licong Peng</u></strong>, Yanglong Hou*, Quan Li*, Ren-Bao Liu*</em><br>
           <a href="https://arxiv.org/abs/2511.10176">arXiv:2511.10176</a>
