@@ -34,27 +34,39 @@ sections:
   
         <p style="font-size: 2em; font-weight: bold; margin-top: 0.1em; margin-bottom: 0.1em;">Preprint</p>
         <li>
-          <strong>Tunable Lattice Transition Mediated by Layer-Dependent Interactions in 3D Antiskyrmions</strong><br>
-          <em>Shangrun Lu, Yusheng Hou, Jinbo Yang, Yanglong Hou*, <strong><u>Licong Peng*</u></strong></em><br>
+          <strong>Helicity-dependent ellipticity and interstitial vortices in confined anisotropic skyrmions</strong><br>
+          <em>Shangrun Lu, Qingfa Luo, Yizhou Liu, Shaohua Fan, Haoting Lu, Jiajia Liu, Guanghui Han, Xiaoting Tian, Fanqi Meng, Zhaochu Luo, Jinbo Yang, Yanglong Hou*, <strong><u>Licong Peng*</u></strong></em><br>
           <strong>Under Review</strong>
-        </li>
+        </li>    
         <li>
-          <strong>Reconfigurable Room Temperature Exchange Bias through Néel Order Switching in van der Waals Heterostructures</strong><br>
-          <em>Jicheng Wang, Shilei Ding*, Bei Ding, Zhipeng Hou*, <strong><u>Licong Peng</u></strong>, Yilan Jiang, Fengshan Zheng, Zhaochu Luo*, Yu Ye, Jinbo Yang, Yanglong Hou*, Rui Wu*</em><br>
-          <a href="https://arxiv.org/abs/2505.04455">arXiv:2505.04455</a>
-        </li>
-        <li>
-          <strong>Layer-dependent field-free switching of Néel vector in a van der Waals antiferromagnet</strong><br>
-          <em>Haoran Guo#, Zhongchong Lin#, Jinhao Lu, Chao Yun*, Guanghui Han, Shoutong Sun, Yu Wu, Wenyun Yang, Dongdong Xiao, Zhifeng Zhu, <strong><u>Licong Peng</u></strong>, Yu Ye, Yanglong Hou*, Jinbo Yang*, Zhaochu Luo*</em><br>
-          <a href="https://arxiv.org/abs/2504.06764">arXiv:2504.06764</a>
+          <strong>Interaction between Three-Dimensional Topological Spin Textures with Layer-Dependent Sign Change Tunes Lattice Symmetry</strong><br>
+          <em>Shangrun Lu, Yusheng Hou, Jan Masell, Xichao Zhang, Qingfa Luo, Shaohua Fan, Wenkun Zhao, Zhaochu Luo, Jinbo Yang, Yanglong Hou*, <strong><u>Licong Peng*</u></strong></em><br>
+          <strong>Under Review</strong>
         </li>
         <li>
           <strong>Semiconducting behaviors at epitaxial Ca0. 5TaO3 interfaces</strong><br>
           <em>Guangdong Nie#, Guanghui Han#, Shengpu Huang, Huiyin Wu, Deshun Wang, Kangxi Liu, Hao Ding, Fangdong Tang, <strong><u>Licong Peng</u></strong>, Dashuai Ma, Young Sun, Changjiang Liu, Deshun Hong*</em><br>
           <a href="https://arxiv.org/abs/2502.10730">arXiv:2502.10730</a>
         </li>
-
+    
+        <p style="font-size: 2em; font-weight: bold; margin-top: 1em; margin-bottom: 0.1em;">2026</p>
+        <li>
+          <strong>Dynamically resolved evolution and quantitative mapping of conformal skyrmion lattice</strong><br>
+          <em>Wenkun Zhao, Shangrun Lu, Qingfa Luo, Xichao Zhang, Shaohua Fan, Haoting Lu, Guanghui Han, Tianyu Xin, Zhaochu Luo, Guoping Zhao*, Jinbo Yang*, Yanglong Hou* and <strong><u>Licong Peng*</u></strong></em><br>
+          <a href="https://www.cell.com/newton/fulltext/S2950-6360(26)00045-9">Newton, 2, 100443, 2026</a>
+        </li>
+    
         <p style="font-size: 2em; font-weight: bold; margin-top: 1em; margin-bottom: 0.1em;">2025</p>
+        <li>
+          <strong>Layer-dependent spin-orbit torque switching of Néel vector in a van der Waals antiferromagnet</strong><br>
+          <em>Haoran Guo, Zhongchong Lin, Jinhao Lu, Chao Yun, Guanghui Han, Shoutong Sun, Yu Wu, Wenyun Yang, Dongdong Xiao, Zhifeng Zhu, <strong><u>Licong Peng</u></strong>, Yu Ye, Yanglong Hou, Jinbo Yang, Zhaochu Luo</em><br>
+          <a href="https://www.nature.com/articles/s41467-025-63966-2">Nature Communications, 16, 8911, 2025</a>
+        </li>
+        <li>
+          <strong>Reconfigurable Room-Temperature Exchange Bias through Néel Order Switching in van der Waals Heterostructures</strong><br>
+          <em>Jicheng Wang, Shilei Ding*, Bei Ding, Zhipeng Hou, <strong><u>Licong Peng</u></strong>, Yilan Jiang, Fengshan Zheng, Zhaochu Luo*, Yu Ye, Jinbo Yang, Yanglong Hou*, Rui Wu*</em><br>
+          <a href="https://pubs.acs.org/doi/abs/10.1021/acsnano.5c08572">ACS Nano, 19, 33268−33277, 2025</a>
+        </li>
         <li>
           <strong>Spontaneous Topological Hall Effect in Intercalated Co1/3TaS2 Nanoflakes with Non-Coplanar Antiferromagnetic Order</strong><br>
           <em>Ziyu Meng, Weiguang Lin, Zijing Zhao, Biao Zhang, Baling Li, Yucheng Lv, Guanghui Han, Shibo Li, Yanzhen Cai, Feng Jin, Ye Zhang, Dongdong Xiao, Teng Yang, <strong><u>Licong Peng*</u></strong>, Yanglong Hou*</u></strong></em><br>
