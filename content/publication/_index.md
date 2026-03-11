@@ -37,7 +37,12 @@ sections:
           <strong>Helicity-dependent ellipticity and interstitial vortices in confined anisotropic skyrmions</strong><br>
           <em>Shangrun Lu#, Qingfa Luo#, Yizhou Liu, Shaohua Fan, Haoting Lu, Jiajia Liu, Guanghui Han, Xiaoting Tian, Fanqi Meng, Zhaochu Luo, Jinbo Yang, Yanglong Hou*, <strong><u>Licong Peng*</u></strong></em><br>
           <strong>Under Review</strong>
-        </li>    
+        </li>
+        <li>
+          <strong>Deformation-assisted skyrmion formation and reorganization under pulsed currents</strong><br>
+          <em>Guanghui Han#, Wenkun Zhao#, Shaohua Fan#, Qingfa Luoa, Shangrun Lu, Xiaoting Tian, Jinbo Yang*, Yanglong Hou*, <strong><u>Licong Peng*</u></strong></em><br>
+          <strong>Under Review</strong>
+        </li>
         <li>
           <strong>Interaction between Three-Dimensional Topological Spin Textures with Layer-Dependent Sign Change Tunes Lattice Symmetry</strong><br>
           <em>Shangrun Lu, Yusheng Hou, Jan Masell, Xichao Zhang, Qingfa Luo, Shaohua Fan, Wenkun Zhao, Zhaochu Luo, Jinbo Yang, Yanglong Hou*, <strong><u>Licong Peng*</u></strong></em><br>
