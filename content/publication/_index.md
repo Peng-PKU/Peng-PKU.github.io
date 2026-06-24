@@ -46,9 +46,34 @@ sections:
     
         <p style="font-size: 2em; font-weight: bold; margin-top: 1em; margin-bottom: 0.1em;">2026</p>
         <li>
+          <strong>Deformation-Assisted Skyrmion Formation and Reorganization under Pulsed Currents</strong><br>
+          <em>Guanghui Han, Wenkun Zhao, Shaohua Fan, Lele Gao, Qingfa Luo, Shangrun Lu, Xiaoting Tian, Jinbo Yang*, Yanglong Hou*, <strong><u>Licong Peng*</u></strong></em><br>
+          <a href="https://pubs.acs.org/doi/abs/10.1021/acsnano.6c04118">ACS Nano, 2026</a>
+        </li>
+        <li>
           <strong>Dynamically resolved evolution and quantitative mapping of conformal skyrmion lattice</strong><br>
           <em>Wenkun Zhao#, Shangrun Lu#, Qingfa Luo, Xichao Zhang, Shaohua Fan, Haoting Lu, Guanghui Han, Tianyu Xin, Zhaochu Luo, Guoping Zhao*, Jinbo Yang*, Yanglong Hou* and <strong><u>Licong Peng*</u></strong></em><br>
           <a href="https://www.cell.com/newton/fulltext/S2950-6360(26)00045-9">Newton, 2, 100443, 2026</a>
+        </li>
+        <li>
+          <strong>Real-space imaging and control of topological spin textures in a van der Waals antiferromagnet</strong><br>
+          <em>Zhiyuan Cheng, Zhongchong Lin, Hee Young Kwon, Haoran Guo, Heng Niu, Hongying Zhu, Zhiguo Jiang, Yaqing Han, Zhongwei Dai, Renjun Du, Liang Sun, Bingfeng Miao, Tianping Ma, Mengmeng Yang, Geliang Yu, <strong><u>Licong Peng</u></strong>, Yufeng Hao, Jinbo Yang, Yizheng Wu, Changyeon Won, Haifeng Ding, Zhaochu Luo*, Gong Chen*</em><br>
+          <a href="https://www.nature.com/articles/s41467-026-72895-7">Nature Communications, 2026</a>
+        </li>
+        <li>
+          <strong>Interface-induced built-in magnetic field boosted spin exchange interactions to enable high-efficiency oxygen electrocatalysis</strong><br>
+          <em>Wanting Zhao, Zhi Fang, Menggang Li, Daping Qiu, Zeeshan Ali, Xiaocang Han, Jiajia Liu, Yuchang Wang, Shibo Li, Guanghui Han, <strong><u>Licong Peng</u></strong>, Song Gao, Yanglong Hou*</em><br>
+          <a href="https://www.cell.com/chem/abstract/S2451-9294(26)00163-4">Chem, 2026</a>
+        </li>
+        <li>
+          <strong>Giant Magneto‐Seebeck Effect in a Van Der Waals Antiferromagnet</strong><br>
+          <em>Yu Wu, Jie Yang*, Haoran Guo, Zhongchong Lin, Yanran Sun, Hansheng Xu, Yu Ye, <strong><u>Licong Peng</u></strong>, Wenyun Yang, Rui Wu*, Jinbo Yang*, Zhaochu Luo*</em><br>
+          <a href="https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/adfm.75865">Advanced Functional Materials, e75865, 2026</a>
+        </li>
+        <li>
+          <strong>Interfacial Sr diffusion stabilized (Ca, Sr) TaO3 thin film and its semiconducting behaviors</strong><br>
+          <em>Guangdong Nie, Guanghui Han, Shengpu Huang, Yiqiao Yan, Huiyin Wu, Deshun Wang, Kangxi Liu, Hao Ding, Fangdong Tang, <strong><u>Licong Peng</u></strong>, Dashuai Ma, Young Sun, Deshun Hong</em><br>
+          <a href="https://pubs.aip.org/aip/apl/article-abstract/128/15/151601/3386936/Interfacial-Sr-diffusion-stabilized-Ca-Sr-TaO3?redirectedFrom=fulltext">Appl. Phys. Lett. 128, 151601, 2026</a>
         </li>
     
         <p style="font-size: 2em; font-weight: bold; margin-top: 1em; margin-bottom: 0.1em;">2025</p>
