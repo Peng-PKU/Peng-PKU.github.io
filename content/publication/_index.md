@@ -43,9 +43,8 @@ sections:
         <li>
           <strong>Interaction Between Three‐Dimensional Topological Spin Textures With Layer‐Dependent Sign Change Tunes Lattice Symmetry</strong><br>
           <em>Shangrun Lu, Yusheng Hou, Jan Masell, Xichao Zhang, Qingfa Luo, Shaohua Fan, Wenkun Zhao, Zhaochu Luo, Jinbo Yang, Yanglong Hou*, <strong><u>Licong Peng*</u></strong></em><br>
-          <a href="https://pubs.acs.org/doi/abs/10.1021/acsnano.6c04118">Advanced Materials, e74896, 2026</a>
+          <a href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.74896">Advanced Materials, e74896, 2026</a>
         </li>
-        <li>
         <li>
           <strong>Deformation-Assisted Skyrmion Formation and Reorganization under Pulsed Currents</strong><br>
           <em>Guanghui Han#, Wenkun Zhao#, Shaohua Fan#, Lele Gao, Qingfa Luo, Shangrun Lu, Xiaoting Tian, Jinbo Yang*, Yanglong Hou*, <strong><u>Licong Peng*</u></strong></em><br>
