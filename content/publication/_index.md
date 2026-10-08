@@ -41,6 +41,11 @@ sections:
     
         <p style="font-size: 2em; font-weight: bold; margin-top: 1em; margin-bottom: 0.1em;">2026</p>
         <li>
+          <strong>Helicity-Dependent Ellipticity and Interstitial Vortices in Confined Anisotropic Skyrmions</strong><br>
+          <em>Shangrun Lu#, Qingfa Luo#, Yizhou Liu, Shaohua Fan, Haoting Lu, Jiajia Liu, Guanghui Han, Xiaoting Tian, Fanqi Meng, Zhaochu Luo, Jinbo Yang, Yanglong Hou*, <strong><u>Licong Peng*</u></strong></em><br>
+          <a href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.75203">Advanced Materials, e75203, 2026</a>
+        </li>
+        <li>
           <strong>Interaction Between Three‐Dimensional Topological Spin Textures With Layer‐Dependent Sign Change Tunes Lattice Symmetry</strong><br>
           <em>Shangrun Lu, Yusheng Hou, Jan Masell, Xichao Zhang, Qingfa Luo, Shaohua Fan, Wenkun Zhao, Zhaochu Luo, Jinbo Yang, Yanglong Hou*, <strong><u>Licong Peng*</u></strong></em><br>
           <a href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.74896">Advanced Materials, e74896, 2026</a>
