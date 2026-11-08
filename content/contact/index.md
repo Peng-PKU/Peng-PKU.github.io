@@ -31,7 +31,7 @@ sections:
         We welcome applications from motivated undergraduate students, Ph.D. candidates, and postdoctoral researchers. Feel free to reach out if you are interested.
       email: licong.peng@pku.edu.cn
       address:
-        street: Xin'ao Engineering Building, Yan Dong Xin Yuan, Peking University
+        street: Room 5035, Xin'ao Engineering Building, Yan Dong Xin Yuan, Peking University
         city: Beijing
         region: CN
         postcode: '100871'
