@@ -31,16 +31,16 @@ sections:
         We welcome applications from motivated undergraduate students, Ph.D. candidates, and postdoctoral researchers. Feel free to reach out if you are interested.
       email: licong.peng@pku.edu.cn
       address:
-        street: Peking University, No.5 Yiheyuan Road, Haidian District
+        street: Xin'ao Engineering Building, Yan Dong Xin Yuan, Peking University
         city: Beijing
         region: CN
         postcode: '100871'
         country: China
         country_code: CN
       coordinates:
-        latitude: '39.99181'
-        longitude: '116.3039'
-      # directions: Enter Peking University through the Southwest Gate, then proceed to Office 315 on the third floor of the Yi Yuan.
+        latitude: '39.99281'
+        longitude: '116.3049'
+      # directions: Enter Yan Dong Xin Yuan and proceed to Room 5035, Xin'ao Engineering Building.
       # office_hours:
       #   - 'Weekdays 9:00 to 17:00'
       autolink: true
