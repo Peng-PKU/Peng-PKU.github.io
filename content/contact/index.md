@@ -38,8 +38,8 @@ sections:
         country: China
         country_code: CN
       coordinates:
-        latitude: '39.99281'
-        longitude: '116.3149'
+        latitude: '39.99291'
+        longitude: '116.3129'
       # directions: Enter Yan Dong Xin Yuan and proceed to Room 5035, Xin'ao Engineering Building.
       # office_hours:
       #   - 'Weekdays 9:00 to 17:00'
